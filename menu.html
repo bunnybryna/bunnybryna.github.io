@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>DD Menu</title>
+       <link rel="icon" type="image/png" href="img/logosm.png"/>
+    <!-- linking to Bootstrap-->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!--linking to my own css-->
+	<link rel="stylesheet" type="text/css" href="css/home.css">
+    <link rel="stylesheet" type="text/css" href="css/menu.css">
+    <!--google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel='stylesheet' type='text/css'>
+    <!--linking to my own js-->
+    <script src = "js/menu.js"></script>
+</head>
+<body>
+<header role="banner">
+<nav id="navbar-primary" class="navbar" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-primary-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>-->
+    <div class="collapse navbar-collapse" id="navbar-primary-collapse">
+      <img id="navImg" src="img/navF.png" class="img-responsive" alt="navbar background">   
+      <ul class="nav navbar-nav">
+        <li class="active">                              
+            <a href="home.html">
+            <img src="img/donutTitle.png" alt="donutButton">Home</a>
+        </li>
+        <li>
+            <a href="contact.html">
+            <img src="img/donutTitle.png" alt="donutButton">Contact</a>
+        </li>
+        <li id="menuButton">
+            <a href="#">
+            <img src="img/donutTitle.png" alt="donutButton">Menu</a>
+        </li>
+        <li>
+            <a href="aboutUs.html">
+            <img src="img/donutTitle.png" alt="donutButton">
+            About</a>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</header><!-- header role="banner" -->
+
+<div class="container">
+    <div class="row">
+    <div class="col-md-12">
+        <img id="menuBanner" src="img/menuBanner1.jpg" alt="donuts with icing on pink background">
+    </div>
+    </div>
+</div>    
+
+<main>    
+<div class="container" id="menuPicGroup">
+    <div class="row">
+        <div class="col-md-8">
+            <div id="enlarge">
+                Hover over an image below to display menu
+            </div>
+        </div>    
+        <div class="col-md-4">
+            <div id="details">
+            </div>
+        </div>    
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-md-3">
+            <img class = "preview" src="img/chocoDonut.jpg" alt="chocolate donuts" onmouseover="upDate(this,'regular')">
+        </div>
+        <div class="col-md-3">
+            <img class = "preview" src="img/moreDonuts.jpg" alt="all kinds of donuts" onmouseover="upDate(this,'fancy')">
+        </div>
+        <div class="col-md-3">
+            <img class = "preview" src="img/creamHorn.jpg" alt="cream horns on the plate" onmouseover="upDate(this,'topSeller')">
+        </div>    
+        <div class="col-md-3">
+            <img class = "preview" src="img/coffeeMenu1.jpg" alt="class coffee" onmouseover="upDate(this,'coffeeList')">        
+        </div>
+    </div>
+    <div id="menuDetail">
+        <div id="regular">
+            Regular donuts: <br>chocolate frosted, vanilla frosted, sugar raised, plain donut, plain cruller, honey wheat, jelly puff, cream puff, coffee roll	 
+        </div>
+        <div id="fancy">
+            Fancy donuts: <br>bow tie, éclair, apple turnover, fancy coffee roll,boston cream, jelly filled, cream filled, glazed, chocolate glazed, marble twist, 	 
+        </div>
+        <div id="topSeller">
+            Top sellers:<br>pistachio pinwheels, Boston cream delights, chocolate confetti, marshmallow mayhems, French twists, bulls horns, cream horns
+        </div>        
+        <div id="coffeeList">
+            Beverage:<br>expresso, macchiato, cappucino, flat white, americano, latte, milk tea, hot chocolate, red eye, iced coffee, iced tea, masala chai;
+    </div>
+</div>
+</main>    
+    
+<footer>
+<div class="container">
+<div class="row">
+    <figure id="footerPicGroup">
+    <div class="col-sm-offset-4 col-sm-1">    
+        <a href="https://www.facebook.com"><img src="img/facebookD.png" alt="Facebook link"></a>
+    </div>
+    <div class="col-sm-1">    
+        <a href="https://twitter.com"><img src="img/twitterD.png" alt="Twitter link"></a>
+    </div>
+    <div class="col-sm-1">    
+        <a href="https://www.instagram.com""><img src="img/instagramD.png" alt="Instagram link"></a>
+    </div>  
+    <div class="col-sm-1">    
+        <a href="https://plus.google.com/"><img src="img/googleD.png" alt="Google+link"></a>
+    </div>       
+    <figure>
+</div>
+<div class="row">
+<div class="col-md-offset-4 col-md-4">    
+    <p>&copy;2016 by Bryna Zhao</p>
+</div>
+</div>
+</div>
+</footer>
+    
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>	

@@ -1,0 +1,120 @@
+body{
+    background: #FFD941 url("../img/patternNew.jpg") repeat;
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    display: inline-block;  
+    height: 8.5vw;    
+}
+
+#navImg{
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+}
+
+nav, #navbar-primary-collapse {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    border: 1px solid black;   
+    position: fixed; 
+    z-index: 2;
+}
+
+.container-fluid,.container{
+    padding:0;
+    margin: 0;
+    width: 100%;
+}
+
+nav ul{ 
+    margin: 0 auto; 
+    position: absolute; 
+    width: 100%;   
+}
+
+.col-md-12{
+        border: 1px solid black; 
+}
+nav ul li{
+    display: inline-block;
+    margin: 6vw 0 0 1vw;
+    width: 15%;
+    padding: 0;   
+}
+
+nav a
+{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    font-size: 2em;   
+    color: #FFD941;
+    padding: 0;    
+    position: fixed;
+    z-index: 3;
+}
+
+nav a:hover{
+    background-color:#FFD941;
+    color: #281200;
+    border-radius: 15px;
+}
+
+nav a.active{    
+}
+
+#menuButton{
+    margin-left: 35%;
+}
+
+.carousel-caption h1{
+    font-family:'Pacifico', cursive;
+    font-size: 4.5em;
+    color: #281200;
+    background-color: rgba(255,255,255,.5);
+    border-radius: 20px;
+}
+
+#carouselContainer{
+    z-index:1;
+}
+
+#homePicGroup{
+    background-color: #281200;
+    text-align: center;
+    font-size: 1.5em;
+    color: #FFFFFF;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-style: italic;
+    padding: 3vw 0 2vw 0;
+}
+
+#homePicGroup h2{
+    font-size: 2em;    
+}
+
+
+#picGroup img{
+    border-radius: 20px;
+    opacity: 0.6;
+}
+
+#picGroup img:hover{
+    opacity: 1;
+}
+
+
+footer img{
+    padding-top: 3vw;
+    width: 100%;
+}
+
+footer p{
+    font-size:2em;
+    color: #281200;
+    text-align: center;
+}
