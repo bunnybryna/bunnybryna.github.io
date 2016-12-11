@@ -1,7 +1,11 @@
+
+
+
 body{
     background: #FFD941 url("../img/patternNew.jpg") repeat;
     padding: 0;
     margin: 0;
+    width: 100%;
 }
 /*navbar style*/
 nav{
@@ -144,7 +148,8 @@ footer p{
     text-align: center;
 }
 
-/*width:960*/
+
+/*to show the mobile navigation bar*/
 @media screen and (max-width:768px)
 {
     #navMd #navImg{
@@ -194,11 +199,5 @@ footer p{
         margin-top: 3vw;
         font-size: 20px;
     }
-    
-    
-
 }
-
-
-
 
