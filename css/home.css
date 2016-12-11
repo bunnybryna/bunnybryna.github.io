@@ -3,11 +3,19 @@ body{
     padding: 0;
     margin: 0;
 }
-
+/*navbar style*/
 nav{
     display: inline-block;  
-    height: 8.5vw;    
+    height: 6.5vw;
 }
+
+.navbar{
+    margin-bottom:0;
+    min-height:0;
+    background: #FFD941 url("../img/patternNew.jpg") repeat;
+    border: none;
+}
+
 
 #navImg{
     width: 100%;
@@ -15,13 +23,12 @@ nav{
     z-index: 2;
 }
 
-nav, #navbar-primary-collapse {
+nav, #navMd {
     padding: 0;
     margin: 0;
-    width: 100%;
-    border: 1px solid black;   
+    width: 100%; 
     position: fixed; 
-    z-index: 2;
+    z-index: 2;    
 }
 
 .container-fluid,.container{
@@ -30,47 +37,50 @@ nav, #navbar-primary-collapse {
     width: 100%;
 }
 
-nav ul{ 
+#navMd ul{ 
     margin: 0 auto; 
     position: absolute; 
-    width: 100%;   
+    width: 100%;    
 }
 
-.col-md-12{
-        border: 1px solid black; 
-}
-nav ul li{
+#navMd ul li{
     display: inline-block;
-    margin: 6vw 0 0 1vw;
+    margin: 6vw 0 0 2vw;
     width: 15%;
     padding: 0;   
 }
 
-nav a
+#navMd ul li a
 {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-style: italic;
     text-decoration: none;
     font-size: 2em;   
     color: #FFD941;
-    padding: 0;    
+    padding: 1%;    
     position: fixed;
     z-index: 3;
 }
 
-nav a:hover{
+#navMd a:hover{
     background-color:#FFD941;
     color: #281200;
     border-radius: 15px;
 }
 
-nav a.active{    
+#menuButton a{
+    margin-left: 31%;
 }
 
-#menuButton{
-    margin-left: 35%;
+#aboutButton a{
+    margin-left: 29%;
 }
 
+#navSm{
+    display: none;
+}
+
+/*carousel style*/
 .carousel-caption h1{
     font-family:'Pacifico', cursive;
     font-size: 4.5em;
@@ -79,8 +89,18 @@ nav a.active{
     border-radius: 20px;
 }
 
+
 #carouselContainer{
     z-index:1;
+    margin-top: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    line-height: 1;
+    width: 100%;
 }
 
 #homePicGroup{
@@ -90,14 +110,16 @@ nav a.active{
     color: #FFFFFF;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-style: italic;
-    padding: 3vw 0 2vw 0;
+    padding: 3vw 0 3vw 0;
 }
 
 #homePicGroup h2{
     font-size: 2em;    
 }
 
-
+#homePicGroup p{
+    margin: 3vw 0;
+}
 #picGroup img{
     border-radius: 20px;
     opacity: 0.6;
@@ -105,11 +127,14 @@ nav a.active{
 
 #picGroup img:hover{
     opacity: 1;
+    border-radius:50%;
 }
 
-
+/*footer style*/
+#footerPicGroup{
+    margin-top: 3vw;
+}
 footer img{
-    padding-top: 3vw;
     width: 100%;
 }
 
@@ -118,3 +143,62 @@ footer p{
     color: #281200;
     text-align: center;
 }
+
+/*width:960*/
+@media screen and (max-width:768px)
+{
+    #navMd #navImg{
+    display: none;
+    }
+
+    #navMd ul{
+        display: none;
+    }
+    
+    #navSm{
+        display: block;
+    }
+
+    .navbar-inverse .navbar-nav>li>a{
+        color: #FFD941;
+        font-weight: bold; 
+        background-color: #281200;
+    }
+    
+    .navbar-collapse{
+        border: none;
+    }
+    
+    #logoPhone{
+        height: 100%;
+        padding: 0 10% 0 20%;
+    }
+
+    #carouselContainer{
+        margin-top: 15px;
+    }
+    .carousel-caption h1{
+        font-size: 2em;
+    }
+    
+    #homePicGroup{
+        font-size: 1em;
+        padding: 5%;
+    }    
+    
+    #homePicGroup h2{
+        font-size: 1.5em;
+    }
+    
+    footer p{
+        margin-top: 3vw;
+        font-size: 20px;
+    }
+    
+    
+
+}
+
+
+
+
