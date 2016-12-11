@@ -9,6 +9,11 @@
     padding: 0;
 }
 
+#menuBanner img{
+    width: 100%;
+    padding: 0
+}
+
 main{
     background-color: #281200;
     border: 1px solid #281200;  
