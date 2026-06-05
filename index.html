@@ -21,9 +21,10 @@
     <section class="hero" aria-labelledby="intro-title">
       <div class="hero__content">
         <p class="eyebrow">Portfolio</p>
-        <h1 id="intro-title">Design-minded web projects with practical, human-centered details.</h1>
+        <h1 id="intro-title">Analytics Leader | Data Storyteller | Travel & Technology Enthusiast</h1>
+        <p class="hero__typing"><span id="typed"></span></p>
         <p class="hero__summary">
-          A growing collection of course work, experiments, and software projects by Bryna Zhao.
+          I transform complex data into actionable insights, products, and stories. My work sits at the intersection of analytics, travel, advertising, and technology, helping businesses make better decisions through experimentation, visualization, and data-driven strategy.
         </p>
         <div class="hero__actions">
           <a class="button button--primary" href="#projects">View Projects</a>
@@ -57,38 +58,47 @@
 
         <article class="project-card">
           <div>
-            <p class="project-card__type">Project placeholder</p>
-            <h3>Movie Recommendation Project</h3>
+            <p class="project-card__type">Personal Project</p>
+            <h3>Movie Recommendation App</h3>
             <p>
-              A recommendation project space for future details about goals, data, approach, screenshots,
-              and a live or repository link.
+              An interactive movie recommendation application built with Python and Streamlit. Inspired by a love of film, the project explores movie data and provides personalized recommendations through a simple and user-friendly interface.
             </p>
           </div>
-          <span class="project-card__status">Coming soon</span>
+          <div>
+            <a class="project-card__link" href="[STREAMLIT_LINK_PLACEHOLDER]" target="_blank" rel="noopener">Live application</a>
+            <br>
+            <a class="project-card__link" href="[GITHUB_REPO_PLACEHOLDER]" target="_blank" rel="noopener">Source (GitHub)</a>
+          </div>
         </article>
 
         <article class="project-card">
           <div>
-            <p class="project-card__type">Future project</p>
-            <h3>Data Project</h3>
+            <p class="project-card__type">In progress</p>
+            <h3>Places I've Traveled Map</h3>
             <p>
-              Placeholder for a data-focused project, including analysis notes, visualizations, or model results.
+              An interactive visualization of destinations I've visited around the world. Combines travel, mapping, and storytelling to create a personal journey through cities, countries, and memorable experiences.
             </p>
+            <ul>
+              <li>Interactive world map</li>
+              <li>Photos and travel notes</li>
+              <li>Timeline of trips and travel statistics</li>
+            </ul>
           </div>
-          <span class="project-card__status">Planned</span>
+          <span class="project-card__status">In progress</span>
         </article>
-
-        <article class="project-card">
-          <div>
-            <p class="project-card__type">Future project</p>
-            <h3>Web App Project</h3>
-            <p>
-              Placeholder for a polished application case study with product goals, implementation notes,
-              and final outcomes.
-            </p>
-          </div>
-          <span class="project-card__status">Planned</span>
-        </article>
+      </div>
+    </section>
+    <section class="section" id="experience" aria-labelledby="experience-title">
+      <div class="section__heading">
+        <p class="eyebrow">Experience</p>
+        <h2 id="experience-title">Selected Experience</h2>
+      </div>
+      <div class="section__body">
+        <h3>Tripadvisor — Analytics Manager, Partner Services</h3>
+        <p>
+          Lead analytics and strategic initiatives for global travel partners, helping optimize advertising performance through experimentation, reporting, and data-driven decision making. Collaborate closely with product, engineering, and commercial teams to develop scalable solutions for the travel industry.
+        </p>
+        <p><strong>Skills:</strong> Analytics & Data, SQL, Python, Tableau, Data Visualization, A/B Testing, Experimentation, Forecasting, Business Analytics</p>
       </div>
     </section>
 
@@ -99,20 +109,49 @@
       </div>
       <div class="section__body">
         <p>
-          This portfolio is being rebuilt from an earlier GitHub Pages site. The first archived project is
-          the Donut Delights homework website, with more projects to be added as their descriptions,
-          screenshots, and links are ready.
+          I'm an analytics professional, traveler, and movie enthusiast who loves using data to tell stories. My work focuses on transforming complex information into clear insights, whether that's optimizing digital advertising performance, building reporting solutions, or exploring new ways to visualize data.
         </p>
+        <p>
+          This website showcases a collection of projects that reflect both my professional experience and personal interests.
+        </p>
+        <h3>Skills & Tools</h3>
+        <ul>
+          <li><strong>Analytics & Data:</strong> SQL, Python, Tableau, Data Visualization, A/B Testing, Experimentation, Forecasting</li>
+          <li><strong>Technical:</strong> HTML, CSS, JavaScript, Streamlit, Snowflake</li>
+          <li><strong>Domain:</strong> Travel Technology, Digital Advertising, Performance Marketing, Data Products</li>
+        </ul>
       </div>
     </section>
 
     <section class="section section--contact" id="contact" aria-labelledby="contact-title">
       <p class="eyebrow">Contact</p>
-      <h2 id="contact-title">More details coming soon.</h2>
+      <h2 id="contact-title">Let's connect</h2>
       <p>
-        Add your preferred email, LinkedIn, GitHub, resume, or contact form link here when you are ready.
+        I'm always interested in connecting with professionals who share a passion for analytics, technology, travel, and data storytelling. Feel free to reach out or explore my projects below.
       </p>
+      <p>
+        <strong>LinkedIn:</strong> [LINKEDIN_URL]<br>
+        <strong>GitHub:</strong> https://github.com/bunnybryna<br>
+        <strong>Email:</strong> [EMAIL_ADDRESS]
+      </p>
+      <p class="eyebrow">Based in Massachusetts • Traveler • Film Lover • Analytics Professional</p>
     </section>
+
+    <script src="assets/vendor/typed.js/typed.min.js"></script>
+    <script>
+      (function(){
+        if (window.Typed) {
+          var options = {
+            strings: ['Analytics Leader', 'Data Storyteller', 'Travel Enthusiast', 'Movie Lover', 'Building data products and visualizations'],
+            typeSpeed: 60,
+            backSpeed: 35,
+            backDelay: 1500,
+            loop: true
+          };
+          new Typed('#typed', options);
+        }
+      })();
+    </script>
   </main>
 </body>
 </html>
