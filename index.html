@@ -1,154 +1,336 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bryna Zhao | Portfolio</title>
-  <meta name="description" content="Portfolio of Bryna Zhao, featuring web design and software projects.">
-  <link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body>
-  <header class="site-header">
-    <a class="brand" href="#top" aria-label="Bryna Zhao portfolio home">Bryna Zhao</a>
-    <nav class="site-nav" aria-label="Primary navigation">
-      <a href="#projects">Projects</a>
-      <a href="#about">About</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
 
-  <main id="top">
-    <section class="hero" aria-labelledby="intro-title">
-      <div class="hero__content">
-        <p class="eyebrow">Portfolio</p>
-        <h1 id="intro-title">Analytics Leader | Data Storyteller | Travel & Technology Enthusiast</h1>
-        <p class="hero__typing"><span id="typed"></span></p>
-        <p class="hero__summary">
-          I transform complex data into actionable insights, products, and stories. My work sits at the intersection of analytics, travel, advertising, and technology, helping businesses make better decisions through experimentation, visualization, and data-driven strategy.
-        </p>
-        <div class="hero__actions">
-          <a class="button button--primary" href="#projects">View Projects</a>
-          <a class="button button--secondary" href="projects/donut-shop/">Open Donut Shop Archive</a>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <!-- Materialize - Compiled and minified CSS-->
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css" />
+  <!-- Font Awesome Icon - CSS-->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+  <!-- Custom Styles-->
+  <link rel="stylesheet" href="/assets/css/style.css" />
+  <title>Bryna Zhao | Portfolio</title>
+
+  <!-- Open Graph / Twitter metadata (kept generic) -->
+  <meta name="description" content="Analytics portfolio of Bryna Zhao — data storytelling, visualization, and experimentation." />
+  <meta property="og:title" content="Bryna Zhao | Analytics Leader" />
+  <meta property="og:description" content="Analytics, data storytelling, and travel-focused projects." />
+</head>
+
+<body>
+  <!-- Navigation Menu (template structure preserved) -->
+  <nav class="hide-on-small-only">
+    <ul class="side-nav fixed section table-of-contents">
+
+      <li class="logo">
+        <a id="logo-container" aria-label="Navigate to the beginning of the page" href="#intro"
+          class="brand-logo grey-blue-text">
+          <img src="/assets/img/passport-new.jpg" class="circle img-responsive profile-pic" alt="avatar">
+        </a>
+      </li>
+
+      <li class="bold">
+        <a aria-label="Navigate to the About section" href="#about" class="waves-effect waves-dark teal-text"><i
+            class="mdi-social-person small"></i><span>About</span></a>
+      </li>
+      <li class="bold">
+        <a aria-label="Navigate to the Experience section" href="#experience"
+          class="waves-effect waves-dark teal-text"><i
+            class="mdi-action-trending-up small"></i><span>Experience</span></a>
+      </li>
+
+      <li class="bold">
+        <a aria-label="Navigate to the Projects section" href="#projects" class="waves-effect waves-dark teal-text"><i
+            class="mdi-av-my-library-books small"></i><span>Projects</span></a>
+      </li>
+
+      <li class="bold">
+        <a aria-label="Navigate to the Skills section" href="#skills" class="waves-effect waves-dark teal-text"><i
+            class="mdi-action-assessment small"></i><span>Skills</span></a>
+      </li>
+
+      <li class="bold">
+        <a aria-label="Navigate to the Education section" href="#education" class="waves-effect waves-dark teal-text"><i
+            class="mdi-social-school small"></i><span>Education</span></a>
+      </li>
+
+      <li class="bold">
+        <a aria-label="Navigate to the Contact section" href="#contact" class="waves-effect waves-dark teal-text"><i
+            class="mdi-content-mail small"></i><span>Contact</span></a>
+      </li>
+
+      <li class="bold">
+        <a aria-label="Open resume in a new tab" href="/assets/resume/Varad_Bhogayata_Resume.pdf" target="_blank"
+        class="waves-effect waves-dark teal-text"><i class="mdi-file-folder-open small"></i><span>Resume</span></a>
+      </li>
+    </ul>
+  </nav>
+
+  <!-- Mobile nav (template) -->
+  <nav class="hide-on-large only trigger z-depth-1">
+    <a aria-label="Toggle visibility of the mobile navbar" href="#" data-activates="slide-out"
+      class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+    <div class="name-title">
+      <a id="name" aria-label="Navigate to the beginning of the page" href="#" class="teal-text">Bryna
+        Zhao</a><span class="black-text">Analytics Leader</span>
+    </div>
+  </nav>
+
+  <nav class="hide-on-large only">
+    <ul id="slide-out" class="side-nav">
+      <li class="bold">
+        <a aria-label="Navigate to the About section" href="#about" class="waves-effect waves-dark teal-text"><i
+            class="mdi-social-person small"></i><span>About</span></a>
+      </li>
+      <li class="bold">
+        <a aria-label="Navigate to the Experience section" href="#experience"
+          class="waves-effect waves-dark teal-text"><i
+            class="mdi-action-trending-up small"></i><span>Experience</span></a>
+      </li>
+      <li class="bold">
+        <a aria-label="Navigate to the Projects section" href="#projects" class="waves-effect waves-dark teal-text"><i
+            class="mdi-av-my-library-books small"></i><span>Projects</span></a>
+      </li>
+      <li class="bold">
+        <a aria-label="Navigate to the Skills section" href="#skills" class="waves-effect waves-dark teal-text"><i
+            class="mdi-action-assessment small"></i><span>Skills</span></a>
+      </li>
+      <li class="bold">
+        <a aria-label="Navigate to the Education section" href="#education" class="waves-effect waves-dark teal-text"><i
+            class="mdi-social-school small"></i><span>Education</span></a>
+      </li>
+      <li class="bold">
+        <a aria-label="Navigate to the Contact section" href="#contact" class="waves-effect waves-dark teal-text"><i
+            class="mdi-content-mail small"></i><span>Contact</span></a>
+      </li>
+      <li class="bold">
+        <a aria-label="Open resume in a new tab" href="/assets/resume/Varad_Bhogayata_Resume.pdf" target="_blank"
+          class="waves-effect waves-dark teal-text"><i class="mdi-file-folder-open small"></i><span>Resume</span></a>
+      </li>
+    </ul>
+  </nav>
+
+  <main>
+    <!-- Intro (hero) -->
+    <section id="intro" class="section scrollspy full-height">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="col-md-9">
+          <div class="content section-padding valign" style="margin-left: 10%; margin-top: 50px;">
+            <div class="caption">
+              <h2>Hi, I'm <span class="teal">Bryna Zhao.</span></h2>
+              <h5 style="color:#fff">A <span class="typing" style="font-weight: 300; color:#004d40"></span></h5>
+              <h5>I transform complex data into actionable insights, products, and stories. My work sits at the intersection of analytics, travel, advertising, and technology, helping businesses make better decisions through experimentation, visualization, and data-driven strategy.</h5>
+            </div>
+            <div class="social">
+              <a href="[LINKEDIN_URL]" target="_blank">
+                <button class="icon-btn linkedin">
+                  <i class="fa fa-linkedin"></i>
+                </button>
+              </a>
+              <a href="https://github.com/bunnybryna" target="_blank">
+                <button class="icon-btn github">
+                  <i class="fa fa-github"></i>
+                </button>
+              </a>
+            </div>
+            <div class='buttons'>
+              <a href="#about" class="readme">Read More</a>
+              <a href="#contact" class="contactme">Contact Me</a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
 
-    <section class="section" id="projects" aria-labelledby="projects-title">
-      <div class="section__heading">
-        <p class="eyebrow">Selected Work</p>
-        <h2 id="projects-title">Projects</h2>
-      </div>
-
-      <div class="project-grid">
-        <article class="project-card project-card--featured">
-          <a class="project-card__link project-card__link--full" href="projects/donut-shop/" target="_blank" rel="noopener">
-            <div>
-              <p class="project-card__type">Archived web design coursework</p>
-              <h3>Donut Shop Website</h3>
-              <p>
-                A Donut Delights website created as homework for a web design course at Parkland College.
-                The original multi-page Bootstrap site is preserved here as a browsable archive.
-              </p>
-            </div>
-            <div class="project-card__image">
-              <img src="projects/donut-shop/img/donutSugar.jpg" alt="Donut Shop screenshot">
-            </div>
-          </a>
-        </article>
-
-        <article class="project-card">
-          <div>
-            <p class="project-card__type">Personal Project</p>
-            <h3>Movie Recommendation App</h3>
-            <p>
-              An interactive movie recommendation application built with Python and Streamlit. Inspired by a love of film, the project explores movie data and provides personalized recommendations through a simple and user-friendly interface.
-            </p>
-          </div>
-          <div>
-            <a class="project-card__link" href="[STREAMLIT_LINK_PLACEHOLDER]" target="_blank" rel="noopener">Live application</a>
-            <br>
-            <a class="project-card__link" href="[GITHUB_REPO_PLACEHOLDER]" target="_blank" rel="noopener">Source (GitHub)</a>
-          </div>
-        </article>
-
-        <article class="project-card">
-          <div>
-            <p class="project-card__type">In progress</p>
-            <h3>Places I've Traveled Map</h3>
-            <p>
-              An interactive visualization of destinations I've visited around the world. Combines travel, mapping, and storytelling to create a personal journey through cities, countries, and memorable experiences.
-            </p>
-            <ul>
-              <li>Interactive world map</li>
-              <li>Photos and travel notes</li>
-              <li>Timeline of trips and travel statistics</li>
-            </ul>
-          </div>
-          <span class="project-card__status">In progress</span>
-        </article>
-      </div>
-    </section>
-    <section class="section" id="experience" aria-labelledby="experience-title">
-      <div class="section__heading">
-        <p class="eyebrow">Experience</p>
-        <h2 id="experience-title">Selected Experience</h2>
-      </div>
-      <div class="section__body">
-        <h3>Tripadvisor — Analytics Manager, Partner Services</h3>
-        <p>
-          Lead analytics and strategic initiatives for global travel partners, helping optimize advertising performance through experimentation, reporting, and data-driven decision making. Collaborate closely with product, engineering, and commercial teams to develop scalable solutions for the travel industry.
-        </p>
-        <p><strong>Skills:</strong> Analytics & Data, SQL, Python, Tableau, Data Visualization, A/B Testing, Experimentation, Forecasting, Business Analytics</p>
-      </div>
-    </section>
-
-    <section class="section section--split" id="about" aria-labelledby="about-title">
-      <div class="section__heading">
-        <p class="eyebrow">About</p>
-        <h2 id="about-title">Building the portfolio one project at a time.</h2>
-      </div>
-      <div class="section__body">
+    <!-- About -->
+    <section id="about" class="section scrollspy">
+      <h3 class="page-title white-text teal">About</h3>
+      <div class="container flow-text">
         <p>
           I'm an analytics professional, traveler, and movie enthusiast who loves using data to tell stories. My work focuses on transforming complex information into clear insights, whether that's optimizing digital advertising performance, building reporting solutions, or exploring new ways to visualize data.
         </p>
         <p>
           This website showcases a collection of projects that reflect both my professional experience and personal interests.
         </p>
-        <h3>Skills & Tools</h3>
         <ul>
-          <li><strong>Analytics & Data:</strong> SQL, Python, Tableau, Data Visualization, A/B Testing, Experimentation, Forecasting</li>
-          <li><strong>Technical:</strong> HTML, CSS, JavaScript, Streamlit, Snowflake</li>
-          <li><strong>Domain:</strong> Travel Technology, Digital Advertising, Performance Marketing, Data Products</li>
+          <li><b>Analytics & Data:</b> SQL, Python, Tableau, Data Visualization, A/B Testing, Experimentation, Forecasting</li>
+          <li><b>Technical:</b> Streamlit, Snowflake, HTML, CSS, JavaScript</li>
+          <li><b>Domain:</b> Travel Technology, Digital Advertising, Performance Marketing</li>
         </ul>
       </div>
     </section>
 
-    <section class="section section--contact" id="contact" aria-labelledby="contact-title">
-      <p class="eyebrow">Contact</p>
-      <h2 id="contact-title">Let's connect</h2>
-      <p>
-        I'm always interested in connecting with professionals who share a passion for analytics, technology, travel, and data storytelling. Feel free to reach out or explore my projects below.
-      </p>
-      <p>
-        <strong>LinkedIn:</strong> [LINKEDIN_URL]<br>
-        <strong>GitHub:</strong> https://github.com/bunnybryna<br>
-        <strong>Email:</strong> [EMAIL_ADDRESS]
-      </p>
-      <p class="eyebrow">Based in Massachusetts • Traveler • Film Lover • Analytics Professional</p>
+    <!-- Experience -->
+    <section id="experience" class="section scrollspy">
+      <h3 class="page-title white-text teal">Experience</h3>
+      <div class="container">
+        <div class="card">
+          <div class="card-content">
+            <div class="row">
+              <div class="col s12 m2">
+                <!-- optional logo -->
+                <img alt="Tripadvisor" src="/assets/img/featured_image-3.webp" class="responsive-img center-block" />
+              </div>
+              <div class="col s12 m10">
+                <p>
+                  <span class="card-title"><a href="#experience" class="teal-text hoverline">Tripadvisor</a></span>
+                </p>
+              </div>
+            </div>
+            <div class="role brown-text text-darken-2">Analytics Manager, Partner Services</div>
+            <ul>
+              <li>Lead analytics and strategic initiatives for global travel partners, helping optimize advertising performance through experimentation, reporting, and data-driven decision making.</li>
+              <li>Collaborate closely with product, engineering, and commercial teams to develop scalable solutions for partner growth.</li>
+              <li><b>Tools:</b> SQL, Python, Tableau, Snowflake</li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </section>
 
-    <script src="assets/vendor/typed.js/typed.min.js"></script>
+    <!-- Projects -->
+    <section id="projects" class="section scrollspy">
+      <h3 class="page-title white-text teal">Projects</h3>
+      <div class="container">
+        <div class="row">
+
+          <!-- Donut Shop (archive) -->
+          <div class="col s12 m6 l4">
+            <div class="card medium">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img alt="Donut Shop" src="/projects/donut-shop/img/donutSugar.jpg" style="height: 100%; width: 100%" class="activator" />
+              </div>
+              <div class="card-content">
+                <span class="card-title activator teal-text hoverline">Donut Shop Website<i class="mdi-navigation-more-vert right"></i></span>
+                <p>Parkland College Web Design Project</p>
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text"><small>Details</small><i class="mdi-navigation-close right"></i></span>
+                <ul>
+                  <li>A responsive multi-page website built as part of a web design course at Parkland College.</li>
+                  <li><b>Technologies:</b> HTML, CSS, Bootstrap, JavaScript</li>
+                </ul>
+                <div class="card-action">
+                  <a aria-label="Open Donut Shop archive" href="/projects/donut-shop/" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey"><i class="fa fa-external-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Movie Recommendation -->
+          <div class="col s12 m6 l4">
+            <div class="card medium">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img alt="Movie Recommender" src="/assets/img/project-AI.jpg" style="height: 100%; width: 100%" class="activator" />
+              </div>
+              <div class="card-content">
+                <span class="card-title activator teal-text hoverline">Movie Recommendation App<i class="mdi-navigation-more-vert right"></i></span>
+                <p>Personal Project — interactive recommendation app built with Streamlit.</p>
+              </div>
+              <div class="card-reveal">
+                <span class="card-title teal-text"><small>Details</small><i class="mdi-navigation-close right"></i></span>
+                <ul>
+                  <li><b>Technologies:</b> Python • Pandas • Streamlit</li>
+                  <li>Status: Live application (link in project card)</li>
+                </ul>
+                <div class="card-action">
+                  <a aria-label="Live" href="[STREAMLIT_LINK_PLACEHOLDER]" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey"><i class="fa fa-external-link"></i></a>
+                  <a aria-label="Source" href="[GITHUB_REPO_PLACEHOLDER]" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey"><i class="fa fa-github"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Places I've Traveled -->
+          <div class="col s12 m6 l4">
+            <div class="card medium">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img alt="Travel Map" src="/assets/img/minimal-ai-wallpaper.jpg" style="height: 100%; width: 100%" class="activator" />
+              </div>
+              <div class="card-content">
+                <span class="card-title activator teal-text hoverline">Places I've Traveled Map<i class="mdi-navigation-more-vert right"></i></span>
+                <p>An interactive visualization of destinations I've visited — photos, notes, and travel statistics.</p>
+              </div>
+              <div class="card-reveal">
+                <span class="card-title teal-text"><small>Planned Features</small><i class="mdi-navigation-close right"></i></span>
+                <ul>
+                  <li>Interactive world map</li>
+                  <li>Photos and timeline</li>
+                  <li>Travel statistics and stories</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Skills -->
+    <section id="skills" class="section scrollspy">
+      <h3 class="page-title white-text teal">Skills</h3>
+      <div class="container">
+        <div class="card">
+          <div class="card-content">
+            <h4 class="brown-text light">Analytics & Tools</h4>
+            <div class="row text-center">
+              <div class="col s4 m2">
+                <img alt="Python" src="/assets/img/python-logo-1-300x300.jpg" class="responsive-img" />Python
+              </div>
+              <div class="col s4 m2">
+                <img alt="Pandas" src="/assets/img/pandas-logo-2-500x500.jpg" class="responsive-img" />Pandas
+              </div>
+              <div class="col s4 m2">
+                <img alt="Tableau" src="/assets/img/project-ml-1.jpg" class="responsive-img" />Tableau
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Education (kept from template) -->
+    <section id="education" class="section scrollspy">
+      <h3 class="page-title white-text teal">Education</h3>
+      <div class="container">
+        <!-- content retained from template or edit later -->
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="section scrollspy full-height">
+      <h3 class="page-title white-text teal">Contact</h3>
+      <div class="container">
+        <p>
+          <a aria-label="Email" href="mailto:[EMAIL_ADDRESS]" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-envelope"></i></a>
+          &nbsp; [EMAIL_ADDRESS]
+        </p>
+        <p>
+          <a aria-label="GitHub" href="https://github.com/bunnybryna" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-github"></i></a>
+          &nbsp; github.com/bunnybryna
+        </p>
+        <p>
+          <a aria-label="LinkedIn" href="[LINKEDIN_URL]" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-linkedin"></i></a>
+        </p>
+      </div>
+    </section>
+
+    <!-- Typed.js init for template typing element -->
+    <script src="/assets/vendor/typed.js/typed.min.js"></script>
     <script>
-      (function(){
+      (function () {
         if (window.Typed) {
-          var options = {
+          new Typed('.typing', {
             strings: ['Analytics Leader', 'Data Storyteller', 'Travel Enthusiast', 'Movie Lover', 'Building data products and visualizations'],
             typeSpeed: 60,
             backSpeed: 35,
             backDelay: 1500,
             loop: true
-          };
-          new Typed('#typed', options);
+          });
         }
       })();
     </script>
