@@ -762,6 +762,15 @@ a.hoverline:hover {
   height: 240px;
 }
 
+#projects .card.medium .card-image img {
+  object-fit: cover;
+}
+
+#projects .card.medium .card-content {
+  max-height: none;
+  overflow: visible;
+}
+
 .education-list {
   display: grid;
   gap: 18px;
@@ -903,6 +912,10 @@ small {
     display: block;
     position: fixed;
     top: 0;
+    z-index: 1000;
+  }
+  nav a.button-collapse {
+    position: relative;
     z-index: 2;
   }
   .name-title {
@@ -912,6 +925,7 @@ small {
     text-align: center;
     width: 100%;
     position: absolute;
+    pointer-events: none;
   }
   .name-title>span, .name-title>a {
     position: relative;
@@ -951,6 +965,19 @@ small {
   .card .card-content .card-title {
     font-size: 20px;
     line-height: 24px;
+  }
+  #projects .card.medium {
+    height: auto;
+  }
+  #projects .card.medium .card-image {
+    height: 190px;
+  }
+  #projects .card.medium .card-content {
+    min-height: 190px;
+  }
+  #projects .card .card-content p a {
+    display: inline-block;
+    padding: 4px 0;
   }
   .skills-grid {
     grid-template-columns: 1fr;

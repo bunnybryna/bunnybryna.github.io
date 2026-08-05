@@ -491,6 +491,23 @@
       </div>
     </section>
 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/js/materialize.min.js"></script>
+
+    <!-- Mobile nav and template interactions -->
+    <script>
+      (function ($) {
+        $(function () {
+          $('.button-collapse').sideNav({
+            closeOnClick: true
+          });
+          $('.scrollspy').scrollSpy({
+            scrollOffset: 64
+          });
+        });
+      })(jQuery);
+    </script>
+
     <!-- Typed.js init for template typing element -->
     <script src="/assets/vendor/typed.js/typed.min.js"></script>
     <script>
