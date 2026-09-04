@@ -766,9 +766,35 @@ a.hoverline:hover {
   object-fit: cover;
 }
 
+#projects .card.medium {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 100%;
+}
+
+#projects .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#projects .row .col {
+  display: flex;
+}
+
 #projects .card.medium .card-content {
   max-height: none;
   overflow: visible;
+  padding-bottom: 18px;
+}
+
+#projects .card .card-content p {
+  line-height: 1.45;
+  padding-top: 4px;
+}
+
+#projects .card .card-content p:last-child {
+  padding-top: 6px;
 }
 
 .education-list {
@@ -973,7 +999,7 @@ small {
     height: 190px;
   }
   #projects .card.medium .card-content {
-    min-height: 190px;
+    min-height: 160px;
   }
   #projects .card .card-content p a {
     display: inline-block;
