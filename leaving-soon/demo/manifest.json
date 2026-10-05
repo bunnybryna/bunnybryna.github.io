@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "data_kind": "synthetic",
+  "updated_at": "2026-09-26T12:00:00Z",
+  "months": {
+    "2026-09": {
+      "path": "catalogs/2026-09/r001.json",
+      "status": "APPROVED",
+      "revision": 1,
+      "sha256": "e452caa5a3709bba7f99a04dde2681206a8bc4dd25e3e34a1227b672d7fc5d67",
+      "reviewed_at": "2026-09-26T12:00:00Z",
+      "coverage": "partial"
+    },
+    "2026-10": {
+      "path": "catalogs/2026-10/r001.json",
+      "status": "APPROVED",
+      "revision": 1,
+      "sha256": "725063b50c2fb00bfdae1bf620c2b2fefe8c6e06ca8454e6eb4ab051ba8d7287",
+      "reviewed_at": "2026-09-26T12:00:00Z",
+      "coverage": "partial"
+    }
+  }
+}
