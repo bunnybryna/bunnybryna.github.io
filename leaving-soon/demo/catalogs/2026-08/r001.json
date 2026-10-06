@@ -1,0 +1,3397 @@
+{
+  "schema_version": 1,
+  "data_kind": "real",
+  "catalog_month": "2026-08",
+  "month_basis": "last_watch_date",
+  "status": "APPROVED",
+  "revision": 1,
+  "service": "netflix",
+  "region": "US",
+  "calendar_timezone": "America/Los_Angeles",
+  "generated_at": "2026-10-02T13:51:02Z",
+  "reviewed_at": "2026-10-02T16:25:58Z",
+  "coverage": "partial",
+  "movies": [
+    {
+      "movie_id": "tmdb-535292",
+      "event_id": "event-0ff57c1e700b8145ebdfc36c",
+      "title": "21 Bridges",
+      "original_title": "21 Bridges",
+      "release_year": 2019,
+      "media_type": "movie",
+      "tmdb_id": 535292,
+      "imdb_id": "tt8688634",
+      "poster_path": "/kDlmrGZROewneCoSwPjKx6Qfown.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 100,
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 81888,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1317021",
+      "event_id": "event-453297e534365f5b3c377655",
+      "title": "Abducted At an HBCU: A Black Girl Missing Movie",
+      "original_title": "Abducted at an HBCU: A Black Girl Missing Movie",
+      "release_year": 2024,
+      "media_type": "movie",
+      "tmdb_id": 1317021,
+      "imdb_id": "tt32560625",
+      "poster_path": "/wG8KbFWU8g1jS56dAkeWVMUdvIY.jpg",
+      "genres": [
+        {
+          "id": 10770,
+          "name": "TV Movie"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "runtime_minutes": 85,
+      "ratings": {
+        "imdb": {
+          "score": 5.8,
+          "votes": 329,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1123493",
+      "event_id": "event-cbf8df3bbb160226cbb7db23",
+      "title": "Abducted on Prom Night",
+      "original_title": "Abducted on Prom Night",
+      "release_year": 2023,
+      "media_type": "movie",
+      "tmdb_id": 1123493,
+      "imdb_id": "tt27630783",
+      "poster_path": "/dmP0vLsTn8ytZ2kZpD7xb9VtwGd.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 87,
+      "ratings": {
+        "imdb": {
+          "score": 4.3,
+          "votes": 463,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-10671",
+      "event_id": "event-b09ed14ab630cbaeb4087ed0",
+      "title": "Airport",
+      "original_title": "Airport",
+      "release_year": 1970,
+      "media_type": "movie",
+      "tmdb_id": 10671,
+      "imdb_id": "tt0065377",
+      "poster_path": "/6iOKluJfyiU1SLZbGYrY7Z0i6k0.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 137,
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 25186,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-27932",
+      "event_id": "event-2d95afcf6596ee408f65a420",
+      "title": "Airport 1975",
+      "original_title": "Airport 1975",
+      "release_year": 1974,
+      "media_type": "movie",
+      "tmdb_id": 27932,
+      "imdb_id": "tt0071110",
+      "poster_path": "/etfUuwVCvywq8mGspT94CBeLpSz.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 107,
+      "ratings": {
+        "imdb": {
+          "score": 5.8,
+          "votes": 13732,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-7227",
+      "event_id": "event-0536d122de9afae972b87575",
+      "title": "Airport ’77",
+      "original_title": "Airport '77",
+      "release_year": 1977,
+      "media_type": "movie",
+      "tmdb_id": 7227,
+      "imdb_id": "tt0075648",
+      "poster_path": "/m9b3frZR0Wu8I3ayN3QPrxfZMvC.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 114,
+      "ratings": {
+        "imdb": {
+          "score": 5.8,
+          "votes": 14105,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-340402",
+      "event_id": "event-2f26e594050d702ba330b4d6",
+      "title": "Almost Christmas",
+      "original_title": "Almost Christmas",
+      "release_year": 2016,
+      "media_type": "movie",
+      "tmdb_id": 340402,
+      "imdb_id": "tt4649416",
+      "poster_path": "/1ryK5hfzd8j3eaQVBiRBVHvHLyp.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 111,
+      "ratings": {
+        "imdb": {
+          "score": 6.2,
+          "votes": 9385,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-838",
+      "event_id": "event-0d4ddf5b0b3410a212358643",
+      "title": "American Graffiti",
+      "original_title": "American Graffiti",
+      "release_year": 1973,
+      "media_type": "movie",
+      "tmdb_id": 838,
+      "imdb_id": "tt0069704",
+      "poster_path": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 112,
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 106807,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-13341",
+      "event_id": "event-f6a3247179e6912a2ef08c90",
+      "title": "Bad News Bears",
+      "original_title": "Bad News Bears",
+      "release_year": 2005,
+      "media_type": "movie",
+      "tmdb_id": 13341,
+      "imdb_id": "tt0408524",
+      "poster_path": "/ja1yrgfYAGmwnridioMY3MV0GDm.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 113,
+      "ratings": {
+        "imdb": {
+          "score": 5.8,
+          "votes": 24785,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-5559",
+      "event_id": "event-d41e1bfa58b061bac38a8994",
+      "title": "Bee Movie",
+      "original_title": "Bee Movie",
+      "release_year": 2007,
+      "media_type": "movie",
+      "tmdb_id": 5559,
+      "imdb_id": "tt0389790",
+      "poster_path": "/tX2mgKFUkzFMZingSVD4vioZNz2.jpg",
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 91,
+      "ratings": {
+        "imdb": {
+          "score": 6.1,
+          "votes": 201004,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-4944",
+      "event_id": "event-fa5d5af2f6ce1cbcbf4e5341",
+      "title": "Burn After Reading",
+      "original_title": "Burn After Reading",
+      "release_year": 2008,
+      "media_type": "movie",
+      "tmdb_id": 4944,
+      "imdb_id": "tt0887883",
+      "poster_path": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 96,
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 380670,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-312221",
+      "event_id": "event-65b5a9557b00f481e33fe391",
+      "title": "Creed",
+      "original_title": "Creed",
+      "release_year": 2015,
+      "media_type": "movie",
+      "tmdb_id": 312221,
+      "imdb_id": "tt3076658",
+      "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 133,
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 340484,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-480530",
+      "event_id": "event-c3a98403a256f3e65cb0ec6b",
+      "title": "Creed II",
+      "original_title": "Creed II",
+      "release_year": 2018,
+      "media_type": "movie",
+      "tmdb_id": 480530,
+      "imdb_id": "tt6343314",
+      "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 130,
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 174539,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-677179",
+      "event_id": "event-7a9ab4f82b7b53e6d77ce3ec",
+      "title": "Creed III",
+      "original_title": "Creed III",
+      "release_year": 2023,
+      "media_type": "movie",
+      "tmdb_id": 677179,
+      "imdb_id": "tt11145118",
+      "poster_path": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 116,
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 111362,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-449443",
+      "event_id": "event-d6d844df7b3aebf12a168f9f",
+      "title": "Den of Thieves",
+      "original_title": "Den of Thieves",
+      "release_year": 2018,
+      "media_type": "movie",
+      "tmdb_id": 449443,
+      "imdb_id": "tt1259528",
+      "poster_path": "/AfybH6GbGFw1F9bcETe2yu25mIE.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 140,
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 155897,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-8068",
+      "event_id": "event-c8e64b9c0f29208e0d53532f",
+      "title": "Desperado",
+      "original_title": "Desperado",
+      "release_year": 1995,
+      "media_type": "movie",
+      "tmdb_id": 8068,
+      "imdb_id": "tt0112851",
+      "poster_path": "/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "runtime_minutes": 104,
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 210952,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1300115",
+      "event_id": "event-c6740dfe83b031201ce217fc",
+      "title": "Devil on Campus: The Larry Ray Story",
+      "original_title": "Devil on Campus: The Larry Ray Story",
+      "release_year": 2024,
+      "media_type": "movie",
+      "tmdb_id": 1300115,
+      "imdb_id": "tt32094258",
+      "poster_path": "/1kKhcAqaFEPzbReXqIf3a2IW7xx.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10770,
+          "name": "TV Movie"
+        }
+      ],
+      "runtime_minutes": 86,
+      "ratings": {
+        "imdb": {
+          "score": 5.1,
+          "votes": 577,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-300669",
+      "event_id": "event-693a882e8f1066390c814deb",
+      "title": "Don’t Breathe",
+      "original_title": "Don't Breathe",
+      "release_year": 2016,
+      "media_type": "movie",
+      "tmdb_id": 300669,
+      "imdb_id": "tt4160708",
+      "poster_path": "/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 89,
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 335760,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-49017",
+      "event_id": "event-b4299dcbddd4c571f7d8bd40",
+      "title": "Dracula: Untold",
+      "original_title": "Dracula Untold",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 49017,
+      "imdb_id": "tt0829150",
+      "poster_path": "/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "runtime_minutes": 92,
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 224823,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-100042",
+      "event_id": "event-eee0cf913ca2c57f9d0a5934",
+      "title": "Dumb and Dumber To",
+      "original_title": "Dumb and Dumber To",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 100042,
+      "imdb_id": "tt2096672",
+      "poster_path": "/cvEi0xV7TUkabJGuzulhvbMjrHi.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 110,
+      "ratings": {
+        "imdb": {
+          "score": 5.6,
+          "votes": 155348,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-9411",
+      "event_id": "event-cdb8e1421ab2c4efcf17c222",
+      "title": "Fallen",
+      "original_title": "Fallen",
+      "release_year": 1998,
+      "media_type": "movie",
+      "tmdb_id": 9411,
+      "imdb_id": "tt0119099",
+      "poster_path": "/sWGqNkWVr6JWL4grHFFGV3datuQ.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "runtime_minutes": 124,
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 106028,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-889741",
+      "event_id": "event-8f6170ddc0f04ac66008bb47",
+      "title": "Fast & Feel Love",
+      "original_title": "เร็วโหด..เหมือนโกรธเธอ",
+      "release_year": 2022,
+      "media_type": "movie",
+      "tmdb_id": 889741,
+      "imdb_id": "tt18357588",
+      "poster_path": "/lwkrv2C1CH0OICYDkvTAsXXh8uG.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 132,
+      "ratings": {
+        "imdb": {
+          "score": 6.8,
+          "votes": 1644,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-257445",
+      "event_id": "event-0742a7dd9134d4ff1adef0a4",
+      "title": "Goosebumps",
+      "original_title": "Goosebumps",
+      "release_year": 2015,
+      "media_type": "movie",
+      "tmdb_id": 257445,
+      "imdb_id": "tt1051904",
+      "poster_path": "/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 103,
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 103705,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-9766",
+      "event_id": "event-2af54fee41d4a46183f88235",
+      "title": "Gridiron Gang",
+      "original_title": "Gridiron Gang",
+      "release_year": 2006,
+      "media_type": "movie",
+      "tmdb_id": 9766,
+      "imdb_id": "tt0421206",
+      "poster_path": "/tTjDApg546wt8OWazvPbEhygu83.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 125,
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 83476,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-416144",
+      "event_id": "event-fdf1e1a3357739153468b044",
+      "title": "Hotel Mumbai",
+      "original_title": "Hotel Mumbai",
+      "release_year": 2018,
+      "media_type": "movie",
+      "tmdb_id": 416144,
+      "imdb_id": "tt5461944",
+      "poster_path": "/v32SC4HFZtlDRWXMaR2V2dWqAXJ.jpg",
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 123,
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 80574,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": [
+        "source_year_conflict"
+      ]
+    },
+    {
+      "movie_id": "tmdb-11377",
+      "event_id": "event-0ebda54386608be8d05e1c90",
+      "title": "House on Haunted Hill",
+      "original_title": "House on Haunted Hill",
+      "release_year": 1999,
+      "media_type": "movie",
+      "tmdb_id": 11377,
+      "imdb_id": "tt0185371",
+      "poster_path": "/weiGTsZqBglKxkIn5xj1nEjxn81.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ],
+      "runtime_minutes": 93,
+      "ratings": {
+        "imdb": {
+          "score": 5.6,
+          "votes": 64548,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-470878",
+      "event_id": "event-94e020da0352be2dcda34350",
+      "title": "I Can Only Imagine",
+      "original_title": "I Can Only Imagine",
+      "release_year": 2018,
+      "media_type": "movie",
+      "tmdb_id": 470878,
+      "imdb_id": "tt6450186",
+      "poster_path": "/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg",
+      "genres": [
+        {
+          "id": 10402,
+          "name": "Music"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 110,
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 21210,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-19994",
+      "event_id": "event-9794816c9c1ac5237df6119c",
+      "title": "Jennifer’s Body",
+      "original_title": "Jennifer's Body",
+      "release_year": 2009,
+      "media_type": "movie",
+      "tmdb_id": 19994,
+      "imdb_id": "tt1131734",
+      "poster_path": "/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 107,
+      "ratings": {
+        "imdb": {
+          "score": 5.6,
+          "votes": 178452,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-167",
+      "event_id": "event-9a1605c51da23cebe5d3330b",
+      "title": "K-Pax",
+      "original_title": "K-PAX",
+      "release_year": 2001,
+      "media_type": "movie",
+      "tmdb_id": 167,
+      "imdb_id": "tt0272152",
+      "poster_path": "/tafXZX0I6rso7EyoEzfygfTqxq6.jpg",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "runtime_minutes": 120,
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 204287,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-4942",
+      "event_id": "event-72f524e8266137fbe0999252",
+      "title": "Leatherheads",
+      "original_title": "Leatherheads",
+      "release_year": 2008,
+      "media_type": "movie",
+      "tmdb_id": 4942,
+      "imdb_id": "tt0379865",
+      "poster_path": "/dl2yu8iuwG3dqbpjalm2odadRaH.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 114,
+      "ratings": {
+        "imdb": {
+          "score": 6.0,
+          "votes": 34813,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-22894",
+      "event_id": "event-e6a9c387a927baec87b56571",
+      "title": "Legion",
+      "original_title": "Legion",
+      "release_year": 2010,
+      "media_type": "movie",
+      "tmdb_id": 22894,
+      "imdb_id": "tt1038686",
+      "poster_path": "/ykocDqwg5PRUopnBVb1x1DWnEJF.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ],
+      "runtime_minutes": 100,
+      "ratings": {
+        "imdb": {
+          "score": 5.3,
+          "votes": 121293,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-773",
+      "event_id": "event-827f6a0034b94cd47ebf7b72",
+      "title": "Little Miss Sunshine",
+      "original_title": "Little Miss Sunshine",
+      "release_year": 2006,
+      "media_type": "movie",
+      "tmdb_id": 773,
+      "imdb_id": "tt0449059",
+      "poster_path": "/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 102,
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 566687,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-10830",
+      "event_id": "event-0833cec0129680d1c5ba0c74",
+      "title": "Matilda",
+      "original_title": "Matilda",
+      "release_year": 1996,
+      "media_type": "movie",
+      "tmdb_id": 10830,
+      "imdb_id": "tt0117008",
+      "poster_path": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "runtime_minutes": 98,
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 199299,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-14292",
+      "event_id": "event-9e6d7d76e7ef4471728b8aff",
+      "title": "Miracle",
+      "original_title": "Miracle",
+      "release_year": 2004,
+      "media_type": "movie",
+      "tmdb_id": 14292,
+      "imdb_id": "tt0349825",
+      "poster_path": "/mxtej2th8t8x0ufVBTyhsO6Htxj.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        }
+      ],
+      "runtime_minutes": 135,
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 64499,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-236",
+      "event_id": "event-a92d588fe6f9018b395ec5ee",
+      "title": "Muriel’s Wedding",
+      "original_title": "Muriel's Wedding",
+      "release_year": 1994,
+      "media_type": "movie",
+      "tmdb_id": 236,
+      "imdb_id": "tt0110598",
+      "poster_path": "/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "runtime_minutes": 106,
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 46157,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-225574",
+      "event_id": "event-a7051f47cabf8a3e6e6575dc",
+      "title": "Non-Stop",
+      "original_title": "Non-Stop",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 225574,
+      "imdb_id": "tt2024469",
+      "poster_path": "/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "runtime_minutes": 107,
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 289448,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-274870",
+      "event_id": "event-3f0d1cb0696d89ba615dc70b",
+      "title": "Passengers",
+      "original_title": "Passengers",
+      "release_year": 2016,
+      "media_type": "movie",
+      "tmdb_id": 274870,
+      "imdb_id": "tt1355644",
+      "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "runtime_minutes": 116,
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 506156,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-256961",
+      "event_id": "event-4d9f566b2b7ce81cc80de95b",
+      "title": "Paul Blart Mall Cop 2",
+      "original_title": "Paul Blart: Mall Cop 2",
+      "release_year": 2015,
+      "media_type": "movie",
+      "tmdb_id": 256961,
+      "imdb_id": "tt3450650",
+      "poster_path": "/qML63w7vgspicwLK6xXGLK17cM0.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "runtime_minutes": 94,
+      "ratings": {
+        "imdb": {
+          "score": 4.5,
+          "votes": 45620,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-2787",
+      "event_id": "event-52f6cc603143ae6db479715b",
+      "title": "Pitch Black",
+      "original_title": "Pitch Black",
+      "release_year": 2000,
+      "media_type": "movie",
+      "tmdb_id": 2787,
+      "imdb_id": "tt0134847",
+      "poster_path": "/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 108,
+      "ratings": {
+        "imdb": {
+          "score": 7.0,
+          "votes": 266321,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1366",
+      "event_id": "event-89e066a4871b6f171158fbee",
+      "title": "Rocky",
+      "original_title": "Rocky",
+      "release_year": 1976,
+      "media_type": "movie",
+      "tmdb_id": 1366,
+      "imdb_id": "tt0075148",
+      "poster_path": "/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 120,
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 702725,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1246",
+      "event_id": "event-ea32d119acac9692a1065157",
+      "title": "Rocky Balboa",
+      "original_title": "Rocky Balboa",
+      "release_year": 2006,
+      "media_type": "movie",
+      "tmdb_id": 1246,
+      "imdb_id": "tt0479143",
+      "poster_path": "/byBlJvZwCqgtIwrZNv0pyE974jC.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 102,
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 245996,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1367",
+      "event_id": "event-2b5cf8b1afbb29dd6f4c05dc",
+      "title": "Rocky II",
+      "original_title": "Rocky II",
+      "release_year": 1979,
+      "media_type": "movie",
+      "tmdb_id": 1367,
+      "imdb_id": "tt0079817",
+      "poster_path": "/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 119,
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 254707,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1371",
+      "event_id": "event-0f098a3396c8ef74dd8d3e8e",
+      "title": "Rocky III",
+      "original_title": "Rocky III",
+      "release_year": 1982,
+      "media_type": "movie",
+      "tmdb_id": 1371,
+      "imdb_id": "tt0084602",
+      "poster_path": "/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 100,
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 232903,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1374",
+      "event_id": "event-5baef2144be5c2ae9b45272f",
+      "title": "Rocky IV",
+      "original_title": "Rocky IV",
+      "release_year": 1985,
+      "media_type": "movie",
+      "tmdb_id": 1374,
+      "imdb_id": "tt0089927",
+      "poster_path": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 91,
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 249841,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-1375",
+      "event_id": "event-eec1a7429f2f387c06bc0801",
+      "title": "Rocky V",
+      "original_title": "Rocky V",
+      "release_year": 1990,
+      "media_type": "movie",
+      "tmdb_id": 1375,
+      "imdb_id": "tt0100507",
+      "poster_path": "/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 104,
+      "ratings": {
+        "imdb": {
+          "score": 5.4,
+          "votes": 164348,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-21845",
+      "event_id": "event-191189ac16042c55d8529f54",
+      "title": "Rookie of the Year",
+      "original_title": "Rookie of the Year",
+      "release_year": 1993,
+      "media_type": "movie",
+      "tmdb_id": 21845,
+      "imdb_id": "tt0107985",
+      "poster_path": "/9If8XnhBdEbQ2Q0ggAQC92CptjU.jpg",
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 103,
+      "ratings": {
+        "imdb": {
+          "score": 6.1,
+          "votes": 34545,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-14534",
+      "event_id": "event-9a491ee45d80029fce158bde",
+      "title": "Rudy",
+      "original_title": "Rudy",
+      "release_year": 1993,
+      "media_type": "movie",
+      "tmdb_id": 14534,
+      "imdb_id": "tt0108002",
+      "poster_path": "/fAbfTCRpjHe2rprXBly55KL1dL9.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        }
+      ],
+      "runtime_minutes": 114,
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 75728,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-424",
+      "event_id": "event-832ea3e881b956d9885c8c24",
+      "title": "Schindler’s List",
+      "original_title": "Schindler's List",
+      "release_year": 1993,
+      "media_type": "movie",
+      "tmdb_id": 424,
+      "imdb_id": "tt0108052",
+      "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        },
+        {
+          "id": 10752,
+          "name": "War"
+        }
+      ],
+      "runtime_minutes": 195,
+      "ratings": {
+        "imdb": {
+          "score": 9.0,
+          "votes": 1605634,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-9637",
+      "event_id": "event-7f4ea94e17e98d9c893ebdc8",
+      "title": "Scooby-Doo",
+      "original_title": "Scooby-Doo",
+      "release_year": 2002,
+      "media_type": "movie",
+      "tmdb_id": 9637,
+      "imdb_id": "tt0267913",
+      "poster_path": "/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg",
+      "genres": [
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 87,
+      "ratings": {
+        "imdb": {
+          "score": 5.4,
+          "votes": 143998,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-11024",
+      "event_id": "event-6bbbe31bd10c77b6fc697d31",
+      "title": "Scooby-Doo 2: Monsters Unleashed",
+      "original_title": "Scooby-Doo 2: Monsters Unleashed",
+      "release_year": 2004,
+      "media_type": "movie",
+      "tmdb_id": 11024,
+      "imdb_id": "tt0331632",
+      "poster_path": "/5BrXCJrs22bR5KR6mLHluYo6y4m.jpg",
+      "genres": [
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 93,
+      "ratings": {
+        "imdb": {
+          "score": 5.4,
+          "votes": 74604,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-489999",
+      "event_id": "event-d394e38782ca99933d6f2a42",
+      "title": "Searching",
+      "original_title": "Searching",
+      "release_year": 2018,
+      "media_type": "movie",
+      "tmdb_id": 489999,
+      "imdb_id": "tt7668870",
+      "poster_path": "/yuAPCsCGJGSxA7YOW4elF5JNrzK.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 102,
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 195227,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-290729",
+      "event_id": "event-bf0c15612cbe0b34a98f1d47",
+      "title": "Sniper Legacy",
+      "original_title": "Sniper: Legacy",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 290729,
+      "imdb_id": "tt3776288",
+      "poster_path": "/a9L1t3vRaZRU1Fa0kolfQGiTCnQ.jpg",
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 98,
+      "ratings": {
+        "imdb": {
+          "score": 5.4,
+          "votes": 6814,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-11428",
+      "event_id": "event-c75a9ae9ce37d337b64defe7",
+      "title": "Stephen King’s Sleepwalkers",
+      "original_title": "Sleepwalkers",
+      "release_year": 1992,
+      "media_type": "movie",
+      "tmdb_id": 11428,
+      "imdb_id": "tt0105428",
+      "poster_path": "/iiwplv5pET2HgMog6otunohIiSr.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 89,
+      "ratings": {
+        "imdb": {
+          "score": 5.4,
+          "votes": 27921,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-115",
+      "event_id": "event-fc296369de267093c33b5dd0",
+      "title": "The Big Lebowski",
+      "original_title": "The Big Lebowski",
+      "release_year": 1998,
+      "media_type": "movie",
+      "tmdb_id": 115,
+      "imdb_id": "tt0118715",
+      "poster_path": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "runtime_minutes": 117,
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 925321,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-323676",
+      "event_id": "event-8a263c6412f5edfc3e54ca42",
+      "title": "The Boss",
+      "original_title": "The Boss",
+      "release_year": 2016,
+      "media_type": "movie",
+      "tmdb_id": 323676,
+      "imdb_id": "tt2702724",
+      "poster_path": "/f43EUrZvE9bV0EmuqgtPgWVXnUc.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 99,
+      "ratings": {
+        "imdb": {
+          "score": 5.4,
+          "votes": 51573,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-2108",
+      "event_id": "event-14b3f1d9f136ec3060a12958",
+      "title": "The Breakfast Club",
+      "original_title": "The Breakfast Club",
+      "release_year": 1985,
+      "media_type": "movie",
+      "tmdb_id": 2108,
+      "imdb_id": "tt0088847",
+      "poster_path": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 98,
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 477853,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-244761",
+      "event_id": "event-e210a4e7ae3ddf53a87deb47",
+      "title": "The Captive",
+      "original_title": "The Captive",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 244761,
+      "imdb_id": "tt2326612",
+      "poster_path": "/wLoFxTZFEfAzFLk2qSoPbcz58Jb.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "runtime_minutes": 112,
+      "ratings": {
+        "imdb": {
+          "score": 5.9,
+          "votes": 38278,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-2789",
+      "event_id": "event-5312221c55e01ad3d94d5b85",
+      "title": "The Chronicles of Riddick",
+      "original_title": "The Chronicles of Riddick",
+      "release_year": 2004,
+      "media_type": "movie",
+      "tmdb_id": 2789,
+      "imdb_id": "tt0296572",
+      "poster_path": "/bVO1r90diKfFLzvZ5D3qK6Z558O.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "runtime_minutes": 119,
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 253709,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-222935",
+      "event_id": "event-a7906af6b6a8f3918aa92816",
+      "title": "The Fault in Our Stars",
+      "original_title": "The Fault in Our Stars",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 222935,
+      "imdb_id": "tt2582846",
+      "poster_path": "/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
+      "genres": [
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 126,
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 428426,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-25113",
+      "event_id": "event-688a432c40bfcf098d7ad2af",
+      "title": "The Four Seasons",
+      "original_title": "The Four Seasons",
+      "release_year": 1981,
+      "media_type": "movie",
+      "tmdb_id": 25113,
+      "imdb_id": "tt0082405",
+      "poster_path": "/bNLuiBVpRYP28VCyyVEhxYBGhyl.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "runtime_minutes": 107,
+      "ratings": {
+        "imdb": {
+          "score": 6.8,
+          "votes": 8262,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-346685",
+      "event_id": "event-a4ec0361c818e5d371959ee8",
+      "title": "The Girl on the Train",
+      "original_title": "The Girl on the Train",
+      "release_year": 2016,
+      "media_type": "movie",
+      "tmdb_id": 346685,
+      "imdb_id": "tt3631112",
+      "poster_path": "/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 112,
+      "ratings": {
+        "imdb": {
+          "score": 6.5,
+          "votes": 214053,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-9272",
+      "event_id": "event-db416588a6bd3d3765fdcdf7",
+      "title": "The Good Son",
+      "original_title": "The Good Son",
+      "release_year": 1993,
+      "media_type": "movie",
+      "tmdb_id": 9272,
+      "imdb_id": "tt0107034",
+      "poster_path": "/6jZ1eef6SCVSMb4o1pSHHq84Nyf.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ],
+      "runtime_minutes": 87,
+      "ratings": {
+        "imdb": {
+          "score": 6.4,
+          "votes": 49223,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-559907",
+      "event_id": "event-53f4fb6520df8f4fe6465a64",
+      "title": "The Green Knight",
+      "original_title": "The Green Knight",
+      "release_year": 2021,
+      "media_type": "movie",
+      "tmdb_id": 559907,
+      "imdb_id": "tt9243804",
+      "poster_path": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "runtime_minutes": 130,
+      "ratings": {
+        "imdb": {
+          "score": 6.5,
+          "votes": 134453,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-11087",
+      "event_id": "event-4855e7f909e81e837706ce7b",
+      "title": "The Hand that Rocks the Cradle",
+      "original_title": "The Hand That Rocks the Cradle",
+      "release_year": 1992,
+      "media_type": "movie",
+      "tmdb_id": 11087,
+      "imdb_id": "tt0104389",
+      "poster_path": "/1fBnyO3SbNBplck45js6O4pQaLw.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 110,
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 57001,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-10400",
+      "event_id": "event-4bbe4f5b5855ce92d18fa80b",
+      "title": "The Hurricane",
+      "original_title": "The Hurricane",
+      "release_year": 1999,
+      "media_type": "movie",
+      "tmdb_id": 10400,
+      "imdb_id": "tt0174856",
+      "poster_path": "/zhnxjsNnnpsBMF5V1H7Pzkec45Y.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 146,
+      "ratings": {
+        "imdb": {
+          "score": 7.6,
+          "votes": 109184,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-12144",
+      "event_id": "event-6c301aa88e79b5d2803fb968",
+      "title": "The Land Before Time",
+      "original_title": "The Land Before Time",
+      "release_year": 1988,
+      "media_type": "movie",
+      "tmdb_id": 12144,
+      "imdb_id": "tt0095489",
+      "poster_path": "/7phV1ETZnQrLsEeuk4hNeceEl25.jpg",
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 69,
+      "ratings": {
+        "imdb": {
+          "score": 7.4,
+          "votes": 108666,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-10501",
+      "event_id": "event-a6cfd592c3f730a5d0a7dcf6",
+      "title": "The Road to El Dorado",
+      "original_title": "The Road to El Dorado",
+      "release_year": 2000,
+      "media_type": "movie",
+      "tmdb_id": 10501,
+      "imdb_id": "tt0138749",
+      "poster_path": "/tQuqhUBACMcGqCvliHxpJreBfXC.jpg",
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "runtime_minutes": 90,
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 121021,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-22586",
+      "event_id": "event-19a6ebff3b2a72eccadbcd9f",
+      "title": "The Swan Princess",
+      "original_title": "The Swan Princess",
+      "release_year": 1994,
+      "media_type": "movie",
+      "tmdb_id": 22586,
+      "imdb_id": "tt0111333",
+      "poster_path": "/f5YvIPrkJ9HCsNbgzWJJyxXVNhj.jpg",
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 89,
+      "ratings": {
+        "imdb": {
+          "score": 6.5,
+          "votes": 29798,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-6961",
+      "event_id": "event-b7d72d7d9d7eabfff9fb18ab",
+      "title": "The Wedding Date",
+      "original_title": "The Wedding Date",
+      "release_year": 2005,
+      "media_type": "movie",
+      "tmdb_id": 6961,
+      "imdb_id": "tt0372532",
+      "poster_path": "/x3o3VMEdwct54uLZmuzI4iyi2Zh.jpg",
+      "genres": [
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 88,
+      "ratings": {
+        "imdb": {
+          "score": 6.1,
+          "votes": 60211,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-271718",
+      "event_id": "event-735d5f81f538f9819a22259b",
+      "title": "Trainwreck",
+      "original_title": "Trainwreck",
+      "release_year": 2015,
+      "media_type": "movie",
+      "tmdb_id": 271718,
+      "imdb_id": "tt3152624",
+      "poster_path": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "runtime_minutes": 125,
+      "ratings": {
+        "imdb": {
+          "score": 6.2,
+          "votes": 147874,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-23202",
+      "event_id": "event-598bcf78fd527072c97e085e",
+      "title": "Trick ‘r Treat",
+      "original_title": "Trick 'r Treat",
+      "release_year": 2008,
+      "media_type": "movie",
+      "tmdb_id": 23202,
+      "imdb_id": "tt0862856",
+      "poster_path": "/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 82,
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 115535,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": [
+        "source_year_conflict"
+      ]
+    },
+    {
+      "movie_id": "tmdb-9804",
+      "event_id": "event-5455cfbf184bcd787b253402",
+      "title": "Waterworld",
+      "original_title": "Waterworld",
+      "release_year": 1995,
+      "media_type": "movie",
+      "tmdb_id": 9804,
+      "imdb_id": "tt0114898",
+      "poster_path": "/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "runtime_minutes": 135,
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 227068,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-13490",
+      "event_id": "event-249b0ddce5ca524ce7a93288",
+      "title": "Welcome Home Roscoe Jenkins",
+      "original_title": "Welcome Home Roscoe Jenkins",
+      "release_year": 2008,
+      "media_type": "movie",
+      "tmdb_id": 13490,
+      "imdb_id": "tt0494652",
+      "poster_path": "/1VzS2bkQHVcIxSeBJifOx65oxHK.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "runtime_minutes": 114,
+      "ratings": {
+        "imdb": {
+          "score": 5.6,
+          "votes": 17046,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-19908",
+      "event_id": "event-e1c29406d76396dadb934e5f",
+      "title": "Zombieland",
+      "original_title": "Zombieland",
+      "release_year": 2009,
+      "media_type": "movie",
+      "tmdb_id": 19908,
+      "imdb_id": "tt1156398",
+      "poster_path": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ],
+      "runtime_minutes": 88,
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 674976,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    },
+    {
+      "movie_id": "tmdb-338967",
+      "event_id": "event-0a1eb6ed04ff38901b898bb6",
+      "title": "Zombieland Double Tap",
+      "original_title": "Zombieland: Double Tap",
+      "release_year": 2019,
+      "media_type": "movie",
+      "tmdb_id": 338967,
+      "imdb_id": "tt1560220",
+      "poster_path": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 99,
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 230000,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-08-31",
+      "first_unavailable_date": "2026-09-01",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-09-01",
+        "source_date": "2026-09-01",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed source convention on 2026-09-27; applies consistently to this batch. Preserve the CSV source date as first unavailable and derive last watch as the preceding calendar date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-september-2026/"
+      },
+      "quality_flags": []
+    }
+  ]
+}

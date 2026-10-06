@@ -1,22 +1,30 @@
 {
   "schema_version": 1,
-  "data_kind": "synthetic",
-  "updated_at": "2026-09-26T12:00:00Z",
+  "data_kind": "real",
+  "updated_at": "2026-10-05T19:52:04Z",
   "months": {
-    "2026-09": {
-      "path": "catalogs/2026-09/r001.json",
+    "2026-08": {
+      "path": "catalogs/2026-08/r001.json",
       "status": "APPROVED",
       "revision": 1,
-      "sha256": "d15f1bfce32198c1a1b150f1ed40062d9842dcd70df4c20921ac9d82b26d8512",
-      "reviewed_at": "2026-09-26T12:00:00Z",
+      "sha256": "bbbc682e40b381d6b3a9762e5cd457f61dc01bea0a223931a59875b8103636df",
+      "reviewed_at": "2026-10-02T16:25:58Z",
+      "coverage": "partial"
+    },
+    "2026-09": {
+      "path": "catalogs/2026-09/r002.json",
+      "status": "APPROVED",
+      "revision": 2,
+      "sha256": "98eddce26d68b824a6831b3cee17b89a419742e07ced7c2f0cc6056b2bdd1265",
+      "reviewed_at": "2026-10-05T19:52:04Z",
       "coverage": "partial"
     },
     "2026-10": {
       "path": "catalogs/2026-10/r001.json",
       "status": "APPROVED",
       "revision": 1,
-      "sha256": "6c946e929bca74bbcbc6af62e82950cfa5169fe2c025198ca442910eaca1b494",
-      "reviewed_at": "2026-09-26T12:00:00Z",
+      "sha256": "39f20c274b50444975f89eaa2f01af3a6173ae8dfb5643cd43b50e704502b03f",
+      "reviewed_at": "2026-10-05T19:52:04Z",
       "coverage": "partial"
     }
   }
