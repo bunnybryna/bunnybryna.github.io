@@ -15,7 +15,7 @@
       "path": "catalogs/2026-09/r004.json",
       "status": "APPROVED",
       "revision": 4,
-      "sha256": "3d6f3eb0556a9acb09a19a7b312b16fac7f2a654345e7cc34e929d49e36a39d6",
+      "sha256": "a15199a7358221a497ce9b769621c033839258cba3435e0b207710c7684c80ac",
       "reviewed_at": "2026-10-08T22:00:00Z",
       "coverage": "partial"
     },
@@ -23,7 +23,7 @@
       "path": "catalogs/2026-10/r005.json",
       "status": "APPROVED",
       "revision": 5,
-      "sha256": "14c2cb42847e9e9feb37fbc1008adce7fa82b3e46eb179bf99070fedd8db41c6",
+      "sha256": "9dd04198ea3cf06146182a4242fb1d908a8df3f9812a2cd801f5b0589371be46",
       "reviewed_at": "2026-10-09T02:00:00Z",
       "coverage": "partial"
     },
@@ -31,7 +31,7 @@
       "path": "catalogs/2026-11/r002.json",
       "status": "APPROVED",
       "revision": 2,
-      "sha256": "e05d092ce9a9798669268dfafdff4898d66a3b1db52989fe36e46cbd13aaa43a",
+      "sha256": "0d75b7912e1250a7240855d1b3e34a3b45c5cc302c0d5effc4ea638e9bb22cd6",
       "reviewed_at": "2026-10-09T02:00:00Z",
       "coverage": "partial"
     }
