@@ -1,0 +1,1765 @@
+{
+  "schema_version": 1,
+  "data_kind": "real",
+  "catalog_month": "2026-11",
+  "month_basis": "last_watch_date",
+  "status": "APPROVED",
+  "revision": 6,
+  "service": "netflix",
+  "region": "US",
+  "calendar_timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-06T20:57:29.202Z",
+  "reviewed_at": "2026-11-06T21:22:09Z",
+  "coverage": "partial",
+  "movies": [
+    {
+      "priority_score": 81.0415,
+      "movie_id": "tmdb-81481",
+      "event_id": "event-cb8f35a8b306654934df1b45",
+      "title": "Silenced",
+      "original_title": "도가니",
+      "release_year": 2011,
+      "media_type": "movie",
+      "tmdb_id": 81481,
+      "imdb_id": "tt2070649",
+      "poster_path": "/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 125,
+      "ratings": {
+        "imdb": {
+          "score": 8,
+          "votes": 28451,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-02",
+      "first_unavailable_date": "2026-11-03",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-03",
+        "source_date": "2026-11-03",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 1
+    },
+    {
+      "priority_score": 78.9414,
+      "movie_id": "tmdb-65754",
+      "event_id": "event-ccbcab7d902a367e07056abb",
+      "title": "The Girl with the Dragon Tattoo",
+      "original_title": "The Girl with the Dragon Tattoo",
+      "release_year": 2011,
+      "media_type": "movie",
+      "tmdb_id": 65754,
+      "imdb_id": "tt1568346",
+      "poster_path": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "runtime_minutes": 158,
+      "ratings": {
+        "imdb": {
+          "score": 7.8,
+          "votes": 534237,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-14",
+      "first_unavailable_date": "2026-11-15",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-15",
+        "source_date": "2026-11-15",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 2
+    },
+    {
+      "priority_score": 78.8073,
+      "movie_id": "tmdb-799876",
+      "event_id": "event-dd2e16334fc88a59e69d2868",
+      "title": "The Outfit",
+      "original_title": "The Outfit",
+      "release_year": 2022,
+      "media_type": "movie",
+      "tmdb_id": 799876,
+      "imdb_id": "tt14114802",
+      "poster_path": "/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "runtime_minutes": 105,
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 88258,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-01",
+      "first_unavailable_date": "2026-11-02",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-02",
+        "source_date": "2026-11-02",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 3
+    },
+    {
+      "priority_score": 77.6568,
+      "movie_id": "tmdb-1000837",
+      "event_id": "event-b48272f674cac9e1eec2c510",
+      "title": "I’m Still Here",
+      "original_title": "Ainda Estou Aqui",
+      "release_year": 2024,
+      "media_type": "movie",
+      "tmdb_id": 1000837,
+      "imdb_id": "tt14961016",
+      "poster_path": "/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        }
+      ],
+      "runtime_minutes": 138,
+      "ratings": {
+        "imdb": {
+          "score": 8.1,
+          "votes": 172073,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-16",
+      "first_unavailable_date": "2026-11-17",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-17",
+        "source_date": "2026-11-17",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 4
+    },
+    {
+      "priority_score": 76.199,
+      "movie_id": "tmdb-319",
+      "event_id": "event-7cdd4fd567fa0e8639c6e956",
+      "title": "True Romance",
+      "original_title": "True Romance",
+      "release_year": 1993,
+      "media_type": "movie",
+      "tmdb_id": 319,
+      "imdb_id": "tt0108399",
+      "poster_path": "/AqlPzcILRi0IW0JodKp7pMMNEFt.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "runtime_minutes": 119,
+      "ratings": {
+        "imdb": {
+          "score": 7.9,
+          "votes": 264311,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-18",
+      "first_unavailable_date": "2026-11-19",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-19",
+        "source_date": "2026-11-19",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 5
+    },
+    {
+      "priority_score": 75.2428,
+      "movie_id": "tmdb-43959",
+      "event_id": "event-4a7d72d1bca7ebc89f0d793b",
+      "title": "Soul Surfer",
+      "original_title": "Soul Surfer",
+      "release_year": 2011,
+      "media_type": "movie",
+      "tmdb_id": 43959,
+      "imdb_id": "tt1596346",
+      "poster_path": "/cvgRxrEupUFeJ0xzUExJo4dMXbL.jpg",
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 112,
+      "ratings": {
+        "imdb": {
+          "score": 7,
+          "votes": 56324,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-04",
+      "first_unavailable_date": "2026-11-05",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-05",
+        "source_date": "2026-11-05",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 6
+    },
+    {
+      "priority_score": 73.0235,
+      "movie_id": "tmdb-253065",
+      "event_id": "event-1aa59b8e58f027c1979beb28",
+      "title": "Miss Granny",
+      "original_title": "수상한 그녀",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 253065,
+      "imdb_id": "tt3516378",
+      "poster_path": "/kQcSCLOxqJlRyqAPnj4B0UTXIfF.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10402,
+          "name": "Music"
+        }
+      ],
+      "runtime_minutes": 124,
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 4806,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-02",
+      "first_unavailable_date": "2026-11-03",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-03",
+        "source_date": "2026-11-03",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 7
+    },
+    {
+      "priority_score": 71.3437,
+      "movie_id": "tmdb-223485",
+      "event_id": "event-10d71fd340cf63c6595e0740",
+      "title": "Slow West",
+      "original_title": "Slow West",
+      "release_year": 2015,
+      "media_type": "movie",
+      "tmdb_id": 223485,
+      "imdb_id": "tt3205376",
+      "poster_path": "/j3PmbRZvf5KpNbapSjn8b0CpD6a.jpg",
+      "genres": [
+        {
+          "id": 37,
+          "name": "Western"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 84,
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 50550,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-10",
+      "first_unavailable_date": "2026-11-11",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-11",
+        "source_date": "2026-11-11",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 8
+    },
+    {
+      "priority_score": 70.3878,
+      "movie_id": "tmdb-437081",
+      "event_id": "event-90e966eaaeea140045c6b061",
+      "title": "The Fortress",
+      "original_title": "남한산성",
+      "release_year": 2017,
+      "media_type": "movie",
+      "tmdb_id": 437081,
+      "imdb_id": "tt7160176",
+      "poster_path": "/ww0h7mVg9AdPEMjRJKAic1w3ELa.jpg",
+      "genres": [
+        {
+          "id": 10752,
+          "name": "War"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 140,
+      "ratings": {
+        "imdb": {
+          "score": 6.8,
+          "votes": 4219,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-02",
+      "first_unavailable_date": "2026-11-03",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-03",
+        "source_date": "2026-11-03",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 9
+    },
+    {
+      "priority_score": 69.8728,
+      "movie_id": "tmdb-752623",
+      "event_id": "event-4a2f542746b534b5a3caa6d8",
+      "title": "The Lost City",
+      "original_title": "The Lost City",
+      "release_year": 2022,
+      "media_type": "movie",
+      "tmdb_id": 752623,
+      "imdb_id": "tt13320622",
+      "poster_path": "/rnheO8cFvCYcmZsDrBoabJbKLFE.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 112,
+      "ratings": {
+        "imdb": {
+          "score": 6.1,
+          "votes": 179652,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-08",
+      "first_unavailable_date": "2026-11-09",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-09",
+        "source_date": "2026-11-09",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 10
+    },
+    {
+      "priority_score": 69.6279,
+      "movie_id": "tmdb-73567",
+      "event_id": "event-cba997f3a42382f8416b9744",
+      "title": "Killer Joe",
+      "original_title": "Killer Joe",
+      "release_year": 2011,
+      "media_type": "movie",
+      "tmdb_id": 73567,
+      "imdb_id": "tt1726669",
+      "poster_path": "/6Tt1TQeOI4TpXu1cBUgNGNGeznW.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 102,
+      "ratings": {
+        "imdb": {
+          "score": 6.7,
+          "votes": 89610,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-13",
+      "first_unavailable_date": "2026-11-14",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-14",
+        "source_date": "2026-11-14",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [
+        "owner_verified_release_year",
+        "owner_verified_year_differs_from_tmdb"
+      ],
+      "rank": 11
+    },
+    {
+      "priority_score": 68.8455,
+      "movie_id": "tmdb-494974",
+      "event_id": "event-c7cc7bfb9685908c22626d0b",
+      "title": "Red Joan",
+      "original_title": "Red Joan",
+      "release_year": 2018,
+      "media_type": "movie",
+      "tmdb_id": 494974,
+      "imdb_id": "tt7615302",
+      "poster_path": "/uTQWDi31W4RpxviHGyiwEYHXDDA.jpg",
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        }
+      ],
+      "runtime_minutes": 101,
+      "ratings": {
+        "imdb": {
+          "score": 6.4,
+          "votes": 15976,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-05",
+      "first_unavailable_date": "2026-11-06",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-06",
+        "source_date": "2026-11-06",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [
+        "owner_verified_release_year"
+      ],
+      "rank": 12
+    },
+    {
+      "priority_score": 67.7098,
+      "movie_id": "tmdb-332567",
+      "event_id": "event-0757558446de88fa6e4ad886",
+      "title": "The Shallows",
+      "original_title": "The Shallows",
+      "release_year": 2016,
+      "media_type": "movie",
+      "tmdb_id": 332567,
+      "imdb_id": "tt4052882",
+      "poster_path": "/bnBV7hZmLuA0Si5Aop481sPF2RY.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 86,
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 155652,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-14",
+      "first_unavailable_date": "2026-11-15",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-15",
+        "source_date": "2026-11-15",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 13
+    },
+    {
+      "priority_score": 67.0805,
+      "movie_id": "tmdb-1302916",
+      "event_id": "event-b4101f9aa7c6dc2b5c5e8c69",
+      "title": "Heart Eyes",
+      "original_title": "Heart Eyes",
+      "release_year": 2025,
+      "media_type": "movie",
+      "tmdb_id": 1302916,
+      "imdb_id": "tt32558992",
+      "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 97,
+      "ratings": {
+        "imdb": {
+          "score": 6,
+          "votes": 40192,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-07",
+      "first_unavailable_date": "2026-11-08",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-08",
+        "source_date": "2026-11-08",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [
+        "owner_verified_release_year"
+      ],
+      "rank": 14
+    },
+    {
+      "priority_score": 66.9145,
+      "movie_id": "tmdb-516729",
+      "event_id": "event-0cfd9db4b4d2f467b39c3184",
+      "title": "Paddington in Peru",
+      "original_title": "Paddington in Peru",
+      "release_year": 2024,
+      "media_type": "movie",
+      "tmdb_id": 516729,
+      "imdb_id": "tt5822536",
+      "poster_path": "/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+      "genres": [
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "runtime_minutes": 106,
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 37092,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-14",
+      "first_unavailable_date": "2026-11-15",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-15",
+        "source_date": "2026-11-15",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 15
+    },
+    {
+      "priority_score": 66.6493,
+      "movie_id": "tmdb-951491",
+      "event_id": "event-7aff63b526ec0dbbc7501747",
+      "title": "Saw X",
+      "original_title": "Saw X",
+      "release_year": 2023,
+      "media_type": "movie",
+      "tmdb_id": 951491,
+      "imdb_id": "tt21807222",
+      "poster_path": "/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 118,
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 100505,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-18",
+      "first_unavailable_date": "2026-11-19",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-19",
+        "source_date": "2026-11-19",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 16
+    },
+    {
+      "priority_score": 66.3682,
+      "movie_id": "tmdb-670981",
+      "event_id": "event-f270f25f5d4311acbdce5323",
+      "title": "Prayers for the Stolen",
+      "original_title": "Noche de fuego",
+      "release_year": 2021,
+      "media_type": "movie",
+      "tmdb_id": 670981,
+      "imdb_id": "tt10366574",
+      "poster_path": "/n9nMTsuaWRwKe0GfAmEGMEILqog.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 110,
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 4769,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-16",
+      "first_unavailable_date": "2026-11-17",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-17",
+        "source_date": "2026-11-17",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 17
+    },
+    {
+      "priority_score": 65.9657,
+      "movie_id": "tmdb-253235",
+      "event_id": "event-72ed33bafd133244e2fc9fef",
+      "title": "And So It Goes",
+      "original_title": "And So It Goes",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 253235,
+      "imdb_id": "tt2465146",
+      "poster_path": "/bJoWtA8OAIqavlb5mbx3EzvxFUA.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "runtime_minutes": 94,
+      "ratings": {
+        "imdb": {
+          "score": 5.9,
+          "votes": 17073,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-05",
+      "first_unavailable_date": "2026-11-06",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-06",
+        "source_date": "2026-11-06",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 18
+    },
+    {
+      "priority_score": 62.486,
+      "movie_id": "tmdb-734519",
+      "event_id": "event-9dd623b500c72998d976242f",
+      "title": "THE FABLE: The Killer Who Doesn’t Kill",
+      "original_title": "ザ・ファブル 殺さない殺し屋",
+      "release_year": 2021,
+      "media_type": "movie",
+      "tmdb_id": 734519,
+      "imdb_id": "tt13017204",
+      "poster_path": "/1ZgnxaT3BKkKU3RIJnR024ZjP9S.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "runtime_minutes": 132,
+      "ratings": {
+        "imdb": {
+          "score": 6.8,
+          "votes": 2929,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-16",
+      "first_unavailable_date": "2026-11-17",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-17",
+        "source_date": "2026-11-17",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 19
+    },
+    {
+      "priority_score": 61.8803,
+      "movie_id": "tmdb-13252",
+      "event_id": "event-e0f8288dda6078466aae6713",
+      "title": "Cleaner",
+      "original_title": "Cleaner",
+      "release_year": 2007,
+      "media_type": "movie",
+      "tmdb_id": 13252,
+      "imdb_id": "tt0896798",
+      "poster_path": "/8KhDbFg9STRlvrOLvaQ7PjOo7XT.jpg",
+      "genres": [
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        }
+      ],
+      "runtime_minutes": 88,
+      "ratings": {
+        "imdb": {
+          "score": 6.1,
+          "votes": 50321,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-19",
+      "first_unavailable_date": "2026-11-20",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-20",
+        "source_date": "2026-11-20",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 20
+    },
+    {
+      "priority_score": 61.6068,
+      "movie_id": "tmdb-532267",
+      "event_id": "event-50e1821c747307f2bd6f9689",
+      "title": "THE FABLE",
+      "original_title": "ザ・ファブル",
+      "release_year": 2019,
+      "media_type": "movie",
+      "tmdb_id": 532267,
+      "imdb_id": "tt8676426",
+      "poster_path": "/zILJ5Dzx1NTu2ATalKQrZgTi2mS.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        }
+      ],
+      "runtime_minutes": 123,
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 3497,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-16",
+      "first_unavailable_date": "2026-11-17",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-17",
+        "source_date": "2026-11-17",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 21
+    },
+    {
+      "priority_score": 61.4843,
+      "movie_id": "tmdb-396810",
+      "event_id": "event-258ccd2f33d41361c7e99772",
+      "title": "The Last Word",
+      "original_title": "The Last Word",
+      "release_year": 2017,
+      "media_type": "movie",
+      "tmdb_id": 396810,
+      "imdb_id": "tt5023260",
+      "poster_path": "/zvwBd0nsW5OqTs4ndEJLQY62leF.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 108,
+      "ratings": {
+        "imdb": {
+          "score": 6.6,
+          "votes": 10253,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-20",
+      "first_unavailable_date": "2026-11-21",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-21",
+        "source_date": "2026-11-21",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 22
+    },
+    {
+      "priority_score": 60.7567,
+      "movie_id": "tmdb-1125845",
+      "event_id": "event-b39a05758721370b8b7a7994",
+      "title": "Open Heart",
+      "original_title": "Open Heart",
+      "release_year": 2023,
+      "media_type": "movie",
+      "tmdb_id": 1125845,
+      "imdb_id": "tt27548047",
+      "poster_path": "/w1tIdLWOVmLaGmIKHCH6hQzE1tU.jpg",
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentary"
+        }
+      ],
+      "runtime_minutes": 75,
+      "ratings": {
+        "imdb": {
+          "score": 7.2,
+          "votes": 299,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-16",
+      "first_unavailable_date": "2026-11-17",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-17",
+        "source_date": "2026-11-17",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 23
+    },
+    {
+      "priority_score": 59.2141,
+      "movie_id": "tmdb-336455",
+      "event_id": "event-da78d61c3e09105a70479cbc",
+      "title": "Viral",
+      "original_title": "Viral",
+      "release_year": 2016,
+      "media_type": "movie",
+      "tmdb_id": 336455,
+      "imdb_id": "tt2597892",
+      "poster_path": "/4XLUXRn0Du0xGPUitSuTTT9a8lF.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "runtime_minutes": 86,
+      "ratings": {
+        "imdb": {
+          "score": 5.5,
+          "votes": 11400,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-12",
+      "first_unavailable_date": "2026-11-13",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-13",
+        "source_date": "2026-11-13",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 24
+    },
+    {
+      "priority_score": 58.3807,
+      "movie_id": "tmdb-1071585",
+      "event_id": "event-b8223f8e4ff768c09d7671df",
+      "title": "M3GAN 2.0",
+      "original_title": "M3GAN 2.0",
+      "release_year": 2025,
+      "media_type": "movie",
+      "tmdb_id": 1071585,
+      "imdb_id": "tt26342662",
+      "poster_path": "/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 120,
+      "ratings": {
+        "imdb": {
+          "score": 6,
+          "votes": 56322,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-25",
+      "first_unavailable_date": "2026-11-26",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-26",
+        "source_date": "2026-11-26",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 25
+    },
+    {
+      "priority_score": 57.382,
+      "movie_id": "tmdb-785988",
+      "event_id": "event-5b9cc04fa4abc72f57ca93d1",
+      "title": "Mughizh",
+      "original_title": "முகிழ்",
+      "release_year": 2021,
+      "media_type": "movie",
+      "tmdb_id": 785988,
+      "imdb_id": "tt14039652",
+      "poster_path": "/l0nmCHeiEcRDCGHx8awnTc8JEOM.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 62,
+      "ratings": {
+        "imdb": {
+          "score": 5.6,
+          "votes": 402,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-05",
+      "first_unavailable_date": "2026-11-06",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-06",
+        "source_date": "2026-11-06",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 26
+    },
+    {
+      "priority_score": 57.0133,
+      "movie_id": "tmdb-58231",
+      "event_id": "event-374eca35d25851bcecdfe21e",
+      "title": "Mardi Gras: Spring Break",
+      "original_title": "Mardi Gras: Spring Break",
+      "release_year": 2011,
+      "media_type": "movie",
+      "tmdb_id": 58231,
+      "imdb_id": "tt1083462",
+      "poster_path": "/lFcWzKt2Sbt8GRJGHvSWkbHulU2.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 88,
+      "ratings": {
+        "imdb": {
+          "score": 5.1,
+          "votes": 7185,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-10",
+      "first_unavailable_date": "2026-11-11",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-11",
+        "source_date": "2026-11-11",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 27
+    },
+    {
+      "priority_score": 56.9072,
+      "movie_id": "tmdb-319832",
+      "event_id": "event-a6614f5301a9b7f6540fee6d",
+      "title": "Guna 369",
+      "original_title": "గుణ 369",
+      "release_year": 2019,
+      "media_type": "movie",
+      "tmdb_id": 319832,
+      "imdb_id": "tt10638296",
+      "poster_path": "/1LuEpIbLDbKOJT1CpfhhXTnIK8T.jpg",
+      "genres": [
+        {
+          "id": 10749,
+          "name": "Romance"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 146,
+      "ratings": {
+        "imdb": {
+          "score": 6.2,
+          "votes": 554,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-14",
+      "first_unavailable_date": "2026-11-15",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-15",
+        "source_date": "2026-11-15",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 28
+    },
+    {
+      "priority_score": 55.8143,
+      "movie_id": "tmdb-532710",
+      "event_id": "event-6a41cce1f4e9957227a375d5",
+      "title": "Firestarter",
+      "original_title": "Firestarter",
+      "release_year": 2022,
+      "media_type": "movie",
+      "tmdb_id": 532710,
+      "imdb_id": "tt1798632",
+      "poster_path": "/jjBdPcQ0bplBnv2XgElKLoeFDuM.jpg",
+      "genres": [
+        {
+          "id": 27,
+          "name": "Horror"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "runtime_minutes": 94,
+      "ratings": {
+        "imdb": {
+          "score": 4.6,
+          "votes": 25871,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-11",
+      "first_unavailable_date": "2026-11-12",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-12",
+        "source_date": "2026-11-12",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 29
+    },
+    {
+      "priority_score": 55.7216,
+      "movie_id": "tmdb-1410082",
+      "event_id": "event-dda9c6d3dcd274c327140589",
+      "title": "Sniper: The Last Stand",
+      "original_title": "Sniper: The Last Stand",
+      "release_year": 2025,
+      "media_type": "movie",
+      "tmdb_id": 1410082,
+      "imdb_id": "tt34910018",
+      "poster_path": "/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 99,
+      "ratings": {
+        "imdb": {
+          "score": 4.8,
+          "votes": 2279,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-05",
+      "first_unavailable_date": "2026-11-06",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-06",
+        "source_date": "2026-11-06",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [
+        "owner_verified_release_year"
+      ],
+      "rank": 30
+    },
+    {
+      "priority_score": 54.8674,
+      "movie_id": "tmdb-666035",
+      "event_id": "event-9100cc517f499ecdb904d992",
+      "title": "Wanted Man",
+      "original_title": "Wanted Man",
+      "release_year": 2023,
+      "media_type": "movie",
+      "tmdb_id": 666035,
+      "imdb_id": "tt15791574",
+      "poster_path": "/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+      "genres": [
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 85,
+      "ratings": {
+        "imdb": {
+          "score": 4.9,
+          "votes": 3201,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-09",
+      "first_unavailable_date": "2026-11-10",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-10",
+        "source_date": "2026-11-10",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [
+        "owner_verified_release_year",
+        "owner_verified_year_differs_from_tmdb"
+      ],
+      "rank": 31
+    },
+    {
+      "priority_score": 51.2055,
+      "movie_id": "tmdb-1028175",
+      "event_id": "event-fa06f397a4aee76eec81412d",
+      "title": "Oregon",
+      "original_title": "Oregon",
+      "release_year": 2023,
+      "media_type": "movie",
+      "tmdb_id": 1028175,
+      "imdb_id": "tt22037054",
+      "poster_path": "/h5ZysOOHYsQFGzYBpEKgGmiLde0.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "runtime_minutes": 94,
+      "ratings": {
+        "imdb": {
+          "score": 4.6,
+          "votes": 1144,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-09",
+      "first_unavailable_date": "2026-11-10",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-10",
+        "source_date": "2026-11-10",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 32
+    },
+    {
+      "priority_score": 49.9624,
+      "movie_id": "tmdb-885110",
+      "event_id": "event-4229302bde2c890c7bbaeea6",
+      "title": "Amina",
+      "original_title": "Amina",
+      "release_year": 2021,
+      "media_type": "movie",
+      "tmdb_id": 885110,
+      "imdb_id": "tt15847872",
+      "poster_path": "/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg",
+      "genres": [
+        {
+          "id": 10752,
+          "name": "War"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 120,
+      "ratings": {
+        "imdb": {
+          "score": 4,
+          "votes": 569,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-02",
+      "first_unavailable_date": "2026-11-03",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-03",
+        "source_date": "2026-11-03",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 33
+    },
+    {
+      "priority_score": 49.5513,
+      "movie_id": "tmdb-1006917",
+      "event_id": "event-4d1c5b25f7ffe1bcefb6cd68",
+      "title": "The Lost Patient",
+      "original_title": "Le Patient",
+      "release_year": 2022,
+      "media_type": "movie",
+      "tmdb_id": 1006917,
+      "imdb_id": "tt22938576",
+      "poster_path": "/tHwGtD4zT0IhKdc2JQNxHAJFGWn.jpg",
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 10770,
+          "name": "TV Movie"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "runtime_minutes": 93,
+      "ratings": {
+        "imdb": {
+          "score": 5.3,
+          "votes": 3277,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-24",
+      "first_unavailable_date": "2026-11-25",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-25",
+        "source_date": "2026-11-25",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [
+        "owner_verified_release_year"
+      ],
+      "rank": 34
+    },
+    {
+      "priority_score": 47.5173,
+      "movie_id": "tmdb-1016397",
+      "event_id": "event-4c46ca05c041dfbea2ff7dca",
+      "title": "Game Changer",
+      "original_title": "Game Changer",
+      "release_year": 2021,
+      "media_type": "movie",
+      "tmdb_id": 1016397,
+      "imdb_id": "tt12246702",
+      "poster_path": "/j20WqxbpE11XF1pcy0lu7QORsh7.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "runtime_minutes": 104,
+      "ratings": {
+        "imdb": {
+          "score": 5.3,
+          "votes": 144,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-17",
+      "first_unavailable_date": "2026-11-18",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-18",
+        "source_date": "2026-11-18",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [
+        "owner_verified_release_year",
+        "owner_verified_year_differs_from_tmdb"
+      ],
+      "rank": 35
+    },
+    {
+      "priority_score": 33.6087,
+      "movie_id": "tmdb-1202203",
+      "event_id": "event-e85911fc563ae0c58280b0e4",
+      "title": "Wizzo School",
+      "original_title": "ويزو سكول",
+      "release_year": 2023,
+      "media_type": "movie",
+      "tmdb_id": 1202203,
+      "imdb_id": "tt31054427",
+      "poster_path": "/bCj06VYtD5F0JXMtSnqlh66vTqm.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "runtime_minutes": 88,
+      "ratings": {
+        "imdb": {
+          "score": 2.6,
+          "votes": 39,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-11-08",
+      "first_unavailable_date": "2026-11-09",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "2026-11-09",
+        "source_date": "2026-11-09",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Owner-confirmed What's on Netflix convention, applied without shifting the source date.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-in-november-2026/",
+        "source_batch": "2026-11"
+      },
+      "quality_flags": [],
+      "rank": 36
+    }
+  ]
+}

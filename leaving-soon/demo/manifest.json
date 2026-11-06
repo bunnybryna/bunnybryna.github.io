@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "data_kind": "real",
-  "updated_at": "2026-10-10T19:18:51Z",
+  "updated_at": "2026-11-06T21:22:09Z",
   "months": {
     "2026-08": {
       "path": "catalogs/2026-08/r001.json",
@@ -19,20 +19,20 @@
       "reviewed_at": "2026-10-08T22:00:00Z",
       "coverage": "partial"
     },
-    "2026-11": {
-      "path": "catalogs/2026-11/r002.json",
-      "status": "APPROVED",
-      "revision": 2,
-      "sha256": "0d75b7912e1250a7240855d1b3e34a3b45c5cc302c0d5effc4ea638e9bb22cd6",
-      "reviewed_at": "2026-10-09T02:00:00Z",
-      "coverage": "partial"
-    },
     "2026-10": {
       "path": "catalogs/2026-10/r006.json",
       "status": "APPROVED",
       "revision": 6,
       "sha256": "a77508cb69863d93d0862c6260c89ca8e028f70867d7bb3dd378e9b895928a93",
       "reviewed_at": "2026-10-10T19:18:51Z",
+      "coverage": "partial"
+    },
+    "2026-11": {
+      "path": "catalogs/2026-11/r006.json",
+      "status": "APPROVED",
+      "revision": 6,
+      "sha256": "30d5aed43bfb57ab6664a9d4bdd9258bc3103671d01d5db7224cda32f1c9b8a0",
+      "reviewed_at": "2026-11-06T21:22:09Z",
       "coverage": "partial"
     }
   }
