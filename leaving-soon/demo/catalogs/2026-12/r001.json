@@ -1,0 +1,549 @@
+{
+  "schema_version": 1,
+  "data_kind": "real",
+  "catalog_month": "2026-12",
+  "month_basis": "last_watch_date",
+  "status": "APPROVED",
+  "revision": 1,
+  "service": "netflix",
+  "region": "US",
+  "calendar_timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-07T21:23:10Z",
+  "reviewed_at": "2026-11-07T21:25:47Z",
+  "coverage": "partial",
+  "movies": [
+    {
+      "priority_score": 78.6704,
+      "movie_id": "tmdb-1087192",
+      "event_id": "event-3ff1596a17a9be9392542788",
+      "title": "How To Train Your Dragon",
+      "original_title": "How to Train Your Dragon",
+      "release_year": 2025,
+      "media_type": "movie",
+      "tmdb_id": 1087192,
+      "imdb_id": "tt26743210",
+      "poster_path": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+      "genres": [
+        {
+          "id": 14,
+          "name": "Fantasy"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        }
+      ],
+      "runtime_minutes": 125,
+      "ratings": {
+        "imdb": {
+          "score": 7.7,
+          "votes": 142201,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-09",
+      "first_unavailable_date": "2026-12-10",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 10th",
+        "source_date": "2026-12-10",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [],
+      "rank": 1
+    },
+    {
+      "priority_score": 78.075,
+      "movie_id": "tmdb-265330",
+      "event_id": "event-750dfdefe2e19994fcd02573",
+      "title": "30 for 30: Bad Boys",
+      "original_title": "Bad Boys",
+      "release_year": 2014,
+      "media_type": "movie",
+      "tmdb_id": 265330,
+      "imdb_id": "tt3682160",
+      "poster_path": "/l7QWCym7Zb9wDpefryk8OqUyJD1.jpg",
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentary"
+        }
+      ],
+      "runtime_minutes": 102,
+      "ratings": {
+        "imdb": {
+          "score": 8.2,
+          "votes": 2138,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-01",
+      "first_unavailable_date": "2026-12-02",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 2nd",
+        "source_date": "2026-12-02",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [
+        "accepted_identity_title_conflict"
+      ],
+      "rank": 2
+    },
+    {
+      "priority_score": 75.4246,
+      "movie_id": "tmdb-397538",
+      "event_id": "event-f58f288fd8663c1450bb586e",
+      "title": "Borg Vs. McEnroe",
+      "original_title": "Borg vs McEnroe",
+      "release_year": 2017,
+      "media_type": "movie",
+      "tmdb_id": 397538,
+      "imdb_id": "tt5727282",
+      "poster_path": "/vIQqjcrSnyCqLpqwScnvFY1bpkL.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 36,
+          "name": "History"
+        }
+      ],
+      "runtime_minutes": 108,
+      "ratings": {
+        "imdb": {
+          "score": 6.9,
+          "votes": 36805,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-01",
+      "first_unavailable_date": "2026-12-02",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 2nd",
+        "source_date": "2026-12-02",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [],
+      "rank": 3
+    },
+    {
+      "priority_score": 74.108,
+      "movie_id": "tmdb-857800",
+      "event_id": "event-81fd0677e8295003431c6da1",
+      "title": "Becoming Led Zeppelin",
+      "original_title": "Becoming Led Zeppelin",
+      "release_year": 2024,
+      "media_type": "movie",
+      "tmdb_id": 857800,
+      "imdb_id": "tt10365912",
+      "poster_path": "/zK67RUQeVXv01q6E1TnS4g3Hlw2.jpg",
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentary"
+        },
+        {
+          "id": 10402,
+          "name": "Music"
+        }
+      ],
+      "runtime_minutes": 122,
+      "ratings": {
+        "imdb": {
+          "score": 7.5,
+          "votes": 9681,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-06",
+      "first_unavailable_date": "2026-12-07",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 7th",
+        "source_date": "2026-12-07",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [
+        "accepted_identity_year_conflict",
+        "source_year_conflict"
+      ],
+      "rank": 4
+    },
+    {
+      "priority_score": 69.8891,
+      "movie_id": "tmdb-425436",
+      "event_id": "event-b31793143da8dab65e2cd8f7",
+      "title": "30 for 30: This was the XFL",
+      "original_title": "This Was the XFL",
+      "release_year": 2016,
+      "media_type": "movie",
+      "tmdb_id": 425436,
+      "imdb_id": "tt6327686",
+      "poster_path": "/dfJjiwdQAtGYtL2CUW1hoaTQ0Y0.jpg",
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentary"
+        }
+      ],
+      "runtime_minutes": 77,
+      "ratings": {
+        "imdb": {
+          "score": 7.1,
+          "votes": 890,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-01",
+      "first_unavailable_date": "2026-12-02",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 2nd",
+        "source_date": "2026-12-02",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [
+        "accepted_identity_title_conflict",
+        "accepted_identity_year_conflict",
+        "source_year_conflict"
+      ],
+      "rank": 5
+    },
+    {
+      "priority_score": 67.336,
+      "movie_id": "tmdb-329896",
+      "event_id": "event-e3ae8bd8d6ae5fff58bfec14",
+      "title": "30 for 30: Sole Man",
+      "original_title": "Sole Man",
+      "release_year": 2015,
+      "media_type": "movie",
+      "tmdb_id": 329896,
+      "imdb_id": "tt4450678",
+      "poster_path": "/mLuIOcMFIYU589UmlrKj1Xc8HiC.jpg",
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentary"
+        }
+      ],
+      "runtime_minutes": 107,
+      "ratings": {
+        "imdb": {
+          "score": 6.8,
+          "votes": 587,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-01",
+      "first_unavailable_date": "2026-12-02",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 2nd",
+        "source_date": "2026-12-02",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [
+        "accepted_identity_title_conflict"
+      ],
+      "rank": 6
+    },
+    {
+      "priority_score": 65.6719,
+      "movie_id": "tmdb-755812",
+      "event_id": "event-867f65877197cb1d6865e8a2",
+      "title": "Miraculous World: New York, United Heroez",
+      "original_title": "Miraculous World : New York, les héros unis",
+      "release_year": 2020,
+      "media_type": "movie",
+      "tmdb_id": 755812,
+      "imdb_id": "tt12816348",
+      "poster_path": "/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 10770,
+          "name": "TV Movie"
+        }
+      ],
+      "runtime_minutes": 61,
+      "ratings": {
+        "imdb": {
+          "score": 7.3,
+          "votes": 1619,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-14",
+      "first_unavailable_date": "2026-12-15",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 15th",
+        "source_date": "2026-12-15",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [],
+      "rank": 7
+    },
+    {
+      "priority_score": 64.9847,
+      "movie_id": "tmdb-1149504",
+      "event_id": "event-ef200e9c83c373f618dffe88",
+      "title": "Honey Don’t",
+      "original_title": "Honey Don't!",
+      "release_year": 2025,
+      "media_type": "movie",
+      "tmdb_id": 1149504,
+      "imdb_id": "tt30645201",
+      "poster_path": "/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "runtime_minutes": 89,
+      "ratings": {
+        "imdb": {
+          "score": 5.3,
+          "votes": 30502,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-02",
+      "first_unavailable_date": "2026-12-03",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 3rd",
+        "source_date": "2026-12-03",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [],
+      "rank": 8
+    },
+    {
+      "priority_score": 62.8641,
+      "movie_id": "tmdb-911068",
+      "event_id": "event-0eed54e417674e547689a1f8",
+      "title": "Death to 2021",
+      "original_title": "Death to 2021",
+      "release_year": 2021,
+      "media_type": "movie",
+      "tmdb_id": 911068,
+      "imdb_id": "tt16301388",
+      "poster_path": "/qGt48Z1j4TuzPti8ZNWqqypa6w.jpg",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 99,
+          "name": "Documentary"
+        }
+      ],
+      "runtime_minutes": 60,
+      "ratings": {
+        "imdb": {
+          "score": 6.3,
+          "votes": 16420,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-16",
+      "first_unavailable_date": "2026-12-17",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 17th",
+        "source_date": "2026-12-17",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [],
+      "rank": 9
+    },
+    {
+      "priority_score": 59.9443,
+      "movie_id": "tmdb-1234821",
+      "event_id": "event-3e2027263756f5cacaedba2d",
+      "title": "Jurassic World: Rebirth",
+      "original_title": "Jurassic World Rebirth",
+      "release_year": 2025,
+      "media_type": "movie",
+      "tmdb_id": 1234821,
+      "imdb_id": "tt31036941",
+      "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "runtime_minutes": 134,
+      "ratings": {
+        "imdb": {
+          "score": 5.8,
+          "votes": 206363,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-25",
+      "first_unavailable_date": "2026-12-26",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 26th",
+        "source_date": "2026-12-26",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [],
+      "rank": 10
+    },
+    {
+      "priority_score": 33.0648,
+      "movie_id": "tmdb-653522",
+      "event_id": "event-e76fa21f0b80df4d6c581b02",
+      "title": "The App",
+      "original_title": "The App",
+      "release_year": 2019,
+      "media_type": "movie",
+      "tmdb_id": 653522,
+      "imdb_id": "tt11385066",
+      "poster_path": "/wJcBQreAkGf6RYl91i8RO00c91Q.jpg",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "runtime_minutes": 79,
+      "ratings": {
+        "imdb": {
+          "score": 2.8,
+          "votes": 1526,
+          "scale": 10,
+          "as_of": "2026-09-29T17:16:34Z"
+        },
+        "tmdb": null
+      },
+      "last_watch_date": "2026-12-25",
+      "first_unavailable_date": "2026-12-26",
+      "departure_status": "scheduled",
+      "source": {
+        "source_date_text": "December 26th",
+        "source_date": "2026-12-26",
+        "source_date_kind": "first_unavailable",
+        "date_evidence": "Explicit owner instruction for December batch on 2026-11-07. December 1 routes to November 30.",
+        "region_evidence": "row_explicit",
+        "source_ref": "https://www.whats-on-netflix.com/leaving-soon/whats-leaving-netflix-december-2026/",
+        "source_batch": "2026-12"
+      },
+      "quality_flags": [],
+      "rank": 11
+    }
+  ]
+}
